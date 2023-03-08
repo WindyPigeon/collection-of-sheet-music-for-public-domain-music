@@ -1,0 +1,69 @@
+# PDF
+*.pdf
+
+# EPUB
+*.epub
+
+# Audio
+*.mp3
+*.wav
+*.flac
+*.ogg
+
+# Videos
+*.mp4
+*.mov
+*.avi
+*.webm
+*.ogv
+*.mkv
+
+# MIDI
+*.mid
+*.midi
+
+# Archived files
+*.zip
+*.rar
+*.7z
+*.lzh
+
+# Executable program
+*.exe
+
+# Dynamic-link library
+*.dll
+
+# Compressed MusicXML documents
+*.mxl
+
+# Compressed MuseScore documents
+*.mscz
+
+# MuseScore backup folder
+**/.mscbackup/
+
+# OpenUTAU autosaved backup project
+*-autosave.ustx
+
+# Encrypted score file or binary score file
+# MakeMusic Finale
+*.musx
+
+# Compressed and encrypted word documents
+*.docx
+*.docm
+*.doc
+*.odt
+
+# Compressed and encrypted spreadsheet documents
+*.xlsx
+*.xlsm
+*.xls
+*.ods
+
+# Compressed and encrypted silde show documents
+*.pptx
+*.pptm
+*.ppt
+*.odp
