@@ -1,0 +1,1142 @@
+﻿name: 夜上海
+ustx_version: "0.6"
+bpm: 110
+beat_per_bar: 4
+beat_unit: 4
+time_signatures:
+- bar_position: 0
+  beat_per_bar: 4
+  beat_unit: 4
+tempos:
+- position: 0
+  bpm: 110
+tracks:
+- phonemizer: OpenUtau.Plugin.Builtin.ChineseCVVCPhonemizer
+voice_parts:
+- name: VOICE（歌聲）
+  notes:
+  - position: 0
+    duration: 480
+    tone: 50
+    lyric: ye
+    pitch:
+      data:
+      - {x: -40, y: 0}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 480
+    duration: 480
+    tone: 55
+    lyric: shang
+    pitch:
+      data:
+      - {x: -40, y: -50}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 960
+    duration: 960
+    tone: 53
+    lyric: hai
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 1920
+    duration: 480
+    tone: 60
+    lyric: ye
+    pitch:
+      data:
+      - {x: -40, y: -70}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 2400
+    duration: 480
+    tone: 55
+    lyric: shang
+    pitch:
+      data:
+      - {x: -40, y: 50}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 2880
+    duration: 960
+    tone: 53
+    lyric: hai
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 3840
+    duration: 720
+    tone: 60
+    lyric: ni
+    pitch:
+      data:
+      - {x: -40, y: -70}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 4560
+    duration: 240
+    tone: 62
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 4800
+    duration: 720
+    tone: 60
+    lyric: shi
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 5520
+    duration: 180
+    tone: 62
+    lyric: ge
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 5700
+    duration: 60
+    tone: 60
+    lyric: bu
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 5760
+    duration: 480
+    tone: 57
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 6240
+    duration: 480
+    tone: 55
+    lyric: ye
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 6720
+    duration: 960
+    tone: 53
+    lyric: cheng
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 7680
+    duration: 480
+    tone: 50
+    lyric: hua
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 8160
+    duration: 480
+    tone: 58
+    lyric: deng
+    pitch:
+      data:
+      - {x: -40, y: -80}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 8640
+    duration: 960
+    tone: 55
+    lyric: qi
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 9600
+    duration: 480
+    tone: 62
+    lyric: che
+    pitch:
+      data:
+      - {x: -40, y: -70}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 10080
+    duration: 480
+    tone: 58
+    lyric: sheng
+    pitch:
+      data:
+      - {x: -40, y: 40}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 10560
+    duration: 960
+    tone: 55
+    lyric: xiang
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 11520
+    duration: 480
+    tone: 60
+    lyric: ge
+    pitch:
+      data:
+      - {x: -40, y: -50}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 12000
+    duration: 960
+    tone: 65
+    lyric: wu
+    pitch:
+      data:
+      - {x: -40, y: -50}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 12960
+    duration: 360
+    tone: 62
+    lyric: sheng
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 13320
+    duration: 120
+    tone: 60
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 13440
+    duration: 1920
+    tone: 58
+    lyric: ping
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 15360
+    duration: 480
+    tone: 50
+    lyric: zhi
+    pitch:
+      data:
+      - {x: -40, y: 80}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 15840
+    duration: 480
+    tone: 55
+    lyric: jian
+    pitch:
+      data:
+      - {x: -40, y: -50}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 16320
+    duration: 960
+    tone: 53
+    lyric: ta
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 17280
+    duration: 480
+    tone: 60
+    lyric: xiao
+    pitch:
+      data:
+      - {x: -40, y: -70}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 17760
+    duration: 480
+    tone: 55
+    lyric: lian
+    pitch:
+      data:
+      - {x: -40, y: 50}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 18240
+    duration: 960
+    tone: 53
+    lyric: ying
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 19200
+    duration: 720
+    tone: 60
+    lyric: shui
+    pitch:
+      data:
+      - {x: -40, y: -70}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 19920
+    duration: 240
+    tone: 62
+    lyric: zhi
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 20160
+    duration: 720
+    tone: 60
+    lyric: ta
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 20880
+    duration: 240
+    tone: 62
+    lyric: nei
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 21120
+    duration: 60
+    tone: 60
+    lyric: xin
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 21180
+    duration: 420
+    tone: 57
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 21600
+    duration: 480
+    tone: 55
+    lyric: ku
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 22080
+    duration: 960
+    tone: 53
+    lyric: men
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 23040
+    duration: 480
+    tone: 50
+    lyric: ye
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 23520
+    duration: 480
+    tone: 58
+    lyric: sheng
+    pitch:
+      data:
+      - {x: -40, y: -80}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 24000
+    duration: 960
+    tone: 55
+    lyric: huo
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 24960
+    duration: 480
+    tone: 62
+    lyric: dou
+    pitch:
+      data:
+      - {x: -40, y: -70}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 25440
+    duration: 480
+    tone: 58
+    lyric: wei
+    pitch:
+      data:
+      - {x: -40, y: 40}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 25920
+    duration: 960
+    tone: 55
+    lyric: liao
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 26880
+    duration: 480
+    tone: 60
+    lyric: yi
+    pitch:
+      data:
+      - {x: -40, y: -50}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 27360
+    duration: 960
+    tone: 65
+    lyric: shi
+    pitch:
+      data:
+      - {x: -40, y: -50}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 28320
+    duration: 360
+    tone: 62
+    lyric: zhu
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 28680
+    duration: 120
+    tone: 60
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 28800
+    duration: 1920
+    tone: 58
+    lyric: xing
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 30720
+    duration: 720
+    tone: 65
+    lyric: jiu
+    pitch:
+      data:
+      - {x: -40, y: -70}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 31440
+    duration: 240
+    tone: 62
+    lyric: bu
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 31680
+    duration: 480
+    tone: 60
+    lyric: zui
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 32160
+    duration: 480
+    tone: 58
+    lyric: ren
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 32640
+    duration: 240
+    tone: 57
+    lyric: ren
+    pitch:
+      data:
+      - {x: -40, y: 10}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 32880
+    duration: 240
+    tone: 55
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 33120
+    duration: 240
+    tone: 53
+    lyric: zi
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 33360
+    duration: 240
+    tone: 55
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 33600
+    duration: 960
+    tone: 58
+    lyric: zui
+    pitch:
+      data:
+      - {x: -40, y: -30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 34560
+    duration: 480
+    tone: 50
+    lyric: hu
+    pitch:
+      data:
+      - {x: -40, y: 80}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 35040
+    duration: 480
+    tone: 60
+    lyric: tian
+    pitch:
+      data:
+      - {x: -40, y: -100}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 35520
+    duration: 480
+    tone: 57
+    lyric: hu
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 36000
+    duration: 240
+    tone: 55
+    lyric: di
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 36240
+    duration: 240
+    tone: 53
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 36480
+    duration: 480
+    tone: 50
+    lyric: cuo
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 36960
+    duration: 240
+    tone: 53
+    lyric: tuo
+    pitch:
+      data:
+      - {x: -40, y: -30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 37200
+    duration: 240
+    tone: 55
+    lyric: liao
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 37440
+    duration: 720
+    tone: 57
+    lyric: qing
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 38160
+    duration: 240
+    tone: 55
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 38400
+    duration: 3360
+    tone: 53
+    lyric: chun
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 42240
+    duration: 720
+    tone: 65
+    lyric: xiao
+    pitch:
+      data:
+      - {x: -40, y: 0}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 42960
+    duration: 240
+    tone: 62
+    lyric: se
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 43200
+    duration: 480
+    tone: 60
+    lyric: meng
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 43680
+    duration: 480
+    tone: 58
+    lyric: long
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 44160
+    duration: 240
+    tone: 57
+    lyric: juan
+    pitch:
+      data:
+      - {x: -40, y: 10}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 44400
+    duration: 240
+    tone: 55
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 44640
+    duration: 240
+    tone: 53
+    lyric: yan
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 44880
+    duration: 240
+    tone: 55
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 45120
+    duration: 480
+    tone: 58
+    lyric: xing
+    pitch:
+      data:
+      - {x: -40, y: -30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 45600
+    duration: 480
+    tone: 58
+    lyric: song
+    pitch:
+      data:
+      - {x: -40, y: 0}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 46080
+    duration: 480
+    tone: 50
+    lyric: da
+    pitch:
+      data:
+      - {x: -40, y: 80}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 46560
+    duration: 480
+    tone: 60
+    lyric: jia
+    pitch:
+      data:
+      - {x: -40, y: -100}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 47040
+    duration: 480
+    tone: 57
+    lyric: gui
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 47520
+    duration: 240
+    tone: 55
+    lyric: qu
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 47760
+    duration: 240
+    tone: 53
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 48000
+    duration: 480
+    tone: 50
+    lyric: xin
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 48480
+    duration: 240
+    tone: 53
+    lyric: ling
+    pitch:
+      data:
+      - {x: -40, y: -30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 48720
+    duration: 240
+    tone: 55
+    lyric: er
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 48960
+    duration: 720
+    tone: 57
+    lyric: sui
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 49680
+    duration: 240
+    tone: 58
+    lyric: zhe
+    pitch:
+      data:
+      - {x: -40, y: -10}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 49920
+    duration: 360
+    tone: 60
+    lyric: che
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 50280
+    duration: 120
+    tone: 62
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 50400
+    duration: 240
+    tone: 60
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 50640
+    duration: 240
+    tone: 58
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 50880
+    duration: 360
+    tone: 57
+    lyric: lun
+    pitch:
+      data:
+      - {x: -40, y: 10}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 51240
+    duration: 120
+    tone: 55
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 51360
+    duration: 240
+    tone: 57
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 51600
+    duration: 240
+    tone: 58
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: -10}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 51840
+    duration: 480
+    tone: 60
+    lyric: zhuan
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 52320
+    duration: 480
+    tone: 53
+    lyric: dong
+    pitch:
+      data:
+      - {x: -40, y: 70}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 53760
+    duration: 480
+    tone: 50
+    lyric: huan
+    pitch:
+      data:
+      - {x: -40, y: 0}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 54240
+    duration: 480
+    tone: 55
+    lyric: yi
+    pitch:
+      data:
+      - {x: -40, y: -50}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 54720
+    duration: 960
+    tone: 53
+    lyric: huan
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 55680
+    duration: 480
+    tone: 60
+    lyric: xin
+    pitch:
+      data:
+      - {x: -40, y: -70}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 56160
+    duration: 480
+    tone: 55
+    lyric: tian
+    pitch:
+      data:
+      - {x: -40, y: 50}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 56640
+    duration: 960
+    tone: 53
+    lyric: di
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 57600
+    duration: 720
+    tone: 60
+    lyric: bie
+    pitch:
+      data:
+      - {x: -40, y: -70}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 58320
+    duration: 240
+    tone: 62
+    lyric: you
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 58560
+    duration: 720
+    tone: 60
+    lyric: yi
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 59280
+    duration: 240
+    tone: 62
+    lyric: ge
+    pitch:
+      data:
+      - {x: -40, y: -20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 59520
+    duration: 60
+    tone: 60
+    lyric: xin
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 59580
+    duration: 420
+    tone: 57
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 60000
+    duration: 480
+    tone: 55
+    lyric: huan
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 60480
+    duration: 960
+    tone: 53
+    lyric: jing
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 61440
+    duration: 480
+    tone: 50
+    lyric: hui
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 61920
+    duration: 480
+    tone: 58
+    lyric: wei
+    pitch:
+      data:
+      - {x: -40, y: -80}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 62400
+    duration: 960
+    tone: 55
+    lyric: zhe
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 63360
+    duration: 480
+    tone: 62
+    lyric: ye
+    pitch:
+      data:
+      - {x: -40, y: -70}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 63840
+    duration: 480
+    tone: 58
+    lyric: sheng
+    pitch:
+      data:
+      - {x: -40, y: 40}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 64320
+    duration: 960
+    tone: 55
+    lyric: huo
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 65280
+    duration: 480
+    tone: 60
+    lyric: ru
+    pitch:
+      data:
+      - {x: -40, y: -50}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 65760
+    duration: 960
+    tone: 65
+    lyric: meng
+    pitch:
+      data:
+      - {x: -40, y: -50}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 66720
+    duration: 360
+    tone: 62
+    lyric: chu
+    pitch:
+      data:
+      - {x: -40, y: 30}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 67080
+    duration: 120
+    tone: 60
+    lyric: +
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
+  - position: 67200
+    duration: 1920
+    tone: 58
+    lyric: xing
+    pitch:
+      data:
+      - {x: -40, y: 20}
+      - {x: 40, y: 0}
+    vibrato: {}
