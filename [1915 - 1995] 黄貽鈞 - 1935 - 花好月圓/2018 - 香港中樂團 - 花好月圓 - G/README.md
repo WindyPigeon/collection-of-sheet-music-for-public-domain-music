@@ -1,0 +1,162 @@
+# 花好月圓
+Sheet Music by Hong Kong Chinese Orchestra （香港中樂團).
+
+- Format:
+  - PDF
+- Notation system: Modern staff notation
+- Instruments:
+  - Flutes
+    - Chinese piccolo (短笛)
+    - Chinese flute (长笛)
+  - Shengs (笙)
+    - Soprano sheng (高音笙)
+    - Alto sheng (中音笙)
+  - Basson
+  - Chinese hammered dulcimer - Yangqin (揚琴)
+  - Mandolins and Lutes:
+    - Liuqin (柳琴)
+    - Pipa (琵琶)
+    - Ruan (阮)
+      - Zhongruan (中阮)
+      - Daruan (大阮)
+    - Sanxian (三弦)
+  - Wooden fish (木魚)
+    - Low
+    - Hi
+  - Tamborine
+  - Bo (大鈸)
+  - Timpani
+  - Fiddles
+    - Gaohu (高胡)
+    - Erhu (二胡)
+    - Zhonghu (中胡)
+    - Gehu (革胡)
+    - Bass Gehu (低音革胡)
+- Key: G
+- Tempo:
+  - Allegro con Brio
+    - circa 156 BPM
+  - Moderato
+- Source
+  - URL: https://www.hkco.org/uploads/docs/5a8b92eb12d681.pdf
+- Layout
+  - Page size
+    - Dimension:
+      - Width: 8.26 in (20.99 cm)
+      - Height: 11.69 in (29.704 cm)
+  - Staff height (5-lines): 6.77 in (0.39 cm)
+    - Staff space (distance between staff lines): 0.39 cm / 4 = 0.0975 cm = 0.975 mm
+  - Component:
+    - Title
+      - Text: 花好月圓
+      - Font family: DFKai-SB
+      - Font size:
+        - First page: 24
+        - Subsequent pages: 12
+      - Position (From left-bottom corner):
+        - First page:
+          - Top: 28.64 cm = 286.4 mm = 286.4 * 40 / 3.9 = 2937.44 tenth
+          - Bottom: 27.55 cm = 275.5 mm = 275.5 * 40 / 3.9 = 2825.64 tenth
+          - Left: 8.77 cm
+          - Right: 12.23 cm
+          - Center (horizontal): 10.5 cm = 105 mm = 105 * 40 / 3.9 = 1076.92 tenth
+          - Middle (vertical): 28.09 cm
+        - Subsequent pages:
+          - Top: 28.98 cm = 289.8 mm = 289.8 * 40 / 3.9 = 2972.31 tenth
+    - Arranger
+      - Text:
+        - 彭修文 編
+        - (1981/05/01)
+      - Font family:
+        - Chinese character: DFKai-SB
+        - English text: Times
+      - Font size: 12
+      - Position:
+        - Left: 17.48 cm
+        - Right: 19.76 cm = 197.6 mm = 197.6 * 40 / 3.9 = 2026.67 tenth
+      - Middle (vertical): 26.7 cm = 267.0 mm = 267.0 * 40 / 3.9 = 2738.46 tenth
+    - Copyright
+      - Text:
+        - (本次提供之作品僅作為「香港國際青年中樂節」活動之用。為保障知識產權，日後如需公開售票演奏或作任何其他用途，必需自行與作曲家或版權持有人處理版權事宜。)
+      - Font family: serif, Adobe Ming Std L
+      - Font size: 7
+      - Position:
+        - Bottom: 0.27 cm = 2.7 mm = 2.7 * 40 / 3.9 = 27.69 tenth
+    - Tempo marking:
+      - Font family:
+        - English text: serif, Times
+        - Music glyph: Engraver Text T
+      - Font size:
+        - 1st page: 7.38
+        - 5th page: 8.28
+    - Music notation:
+      - Font family:
+        - Maestro
+        - Maestro-Percusion
+    - Dynamic:
+      - Font family: Maestro
+      - Font size:
+        - 1st page: 9.84
+        - 2nd, 3rd, 4th, 5th pages: 11.04
+    - Expression and staff text:
+      - Font size:
+        - 1st page: 5.76
+        - 3rd, 8th pages: 6.48
+    - Logo
+      - Size:
+        - Height: 1.33 cm = 13.3 mm = 13.3 * 40 / 3.9 = 136.41 tenth
+        - Width: 1.22 cm = 12.2 mm = 12.2 * 40 / 3.9 = 125.13 tenth
+      - Position
+        - Top: 29.45 cm = 294.5 mm = 294.5 * 40 / 3.9 = 3020.51 tenth
+        - Left:
+          - Odd page: 0.34 cm = 3.4 mm = 3.4 * 40 / 3.9 = 34.87 tenth
+        - Right:
+          - Even page: 20.57 cm = 205.7 mm = 205.7 * 40 / 3.9 = 2109.74 tenth
+    - Page number:
+      - Font size: 13.98
+      - Position:
+        - Top: 28.95 cm = 289.5 mm = 289.5 * 40 / 3.9 = 2969.23 tenth
+        - Left:
+          - Odd page:
+            - 1.24 cm = 12.4 mm = 12.4 * 40 / 3.9 = 127.18 tenth
+        - Right:
+          - Even page:
+            - 19.76 cm = 197.6 mm = 197.6 * 40 / 3.9 = 2026.67 tenth
+    - Staff part name:
+      - Font size: 8.28
+    - Measure numbering:
+      - Font family: serif, Times
+      - Font size:
+        - 1st page: 7.38
+        - 2nd page: 8.28
+
+## Performances
+- Event:
+  - Name:
+    - Chinese: 香港國際青年中樂節
+    - English: Hong Kong International Youth Chinese Music Festival
+  - Date:
+    - 2018-2-4 (day 2 of 2)
+  - Venue: 香港文化中心音樂廳
+- Performers:
+  - Group name
+    - Chinese:
+      - Orthography: 
+        - Traditional Chinese: 香港中樂團
+        - Traditional Chinese: 香港中乐团
+    - English: Hong Kong Chinese Orchestra
+      - Abbreviation: HKCO
+- Conductor:
+  - Name
+    - Chinese:
+      - Orthography: 
+        - Traditional Chinese: 閻惠昌
+        - Simplified Chinese: 阎惠昌
+        - Romanization: Yan Hui Chang
+  - Born:
+    - Birth date: 1954
+    - Birth place:
+      - Province: 陝西
+      - City: 渭南
+      - County: 合陽
+  - Nationality: Chinese (Hong Kong)
