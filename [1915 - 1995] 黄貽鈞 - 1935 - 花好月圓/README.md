@@ -55,8 +55,10 @@
     - Release date: 1935
     - Catalog number: 34833
   - Side: B-side
-  - Key: F#
-  - Tempo: about 135 BPM
+  - Arrangement
+    - Key: F#
+    - Tempo: about 135 BPM
+    - Genre: 江南丝竹
   - Performers:
     - Group name
       - Chinese
