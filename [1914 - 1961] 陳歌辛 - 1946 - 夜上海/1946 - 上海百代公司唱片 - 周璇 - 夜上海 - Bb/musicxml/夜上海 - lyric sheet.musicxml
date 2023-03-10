@@ -1,1315 +1,1361 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
-<score-partwise version="4.0">
-  <work>
-    <work-number>35645</work-number>
-    <work-title>夜上海/星心相印</work-title>
-  </work>
-  <movement-title>夜上海</movement-title>
-  <identification>
-    <creator type="composer">林七枚</creator>
-    <creator type="lyricist">范烟橋</creator>
-    <rights>上海百代公司唱片</rights>
-    <encoding>
-      <supports attribute="new-system" element="print" type="yes" value="yes" />
-      <supports attribute="new-page" element="print" type="yes" value="yes" />
-      <supports element="accidental" type="yes" />
-      <supports element="beam" type="yes" />
-      <supports element="stem" type="yes" />
-    </encoding>
-    <source>Based on the lyric sheet that came with the Pathé (百代唱片) 35645 shellac record.</source>
-  </identification>
-  <defaults>
-    <scaling>
-      <millimeters>7</millimeters>
-      <tenths>40</tenths>
-    </scaling>
-    <page-layout>
-      <page-height>1183</page-height>
-      <page-width>910</page-width>
-      <page-margins type="both">
-        <left-margin>50</left-margin>
-        <right-margin>50</right-margin>
-        <top-margin>23</top-margin>
-        <bottom-margin>63</bottom-margin>
-      </page-margins>
-    </page-layout>
-    <system-layout>
-      <top-system-distance>290</top-system-distance>
-    </system-layout>
-    <word-font font-family="serif" />
-    <lyric-font font-family="serif" />
-    <lyric-language xml:lang="zh" />
-  </defaults>
-  <credit page="1">
-    <credit-type>title</credit-type>
-    <credit-words default-x="455" default-y="1130" justify="center" valign="middle" font-weight="bold" underline="2">夜 上 海</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-type>subtitle</credit-type>
-    <credit-words default-x="455" default-y="1030" font-weight="bold" justify="center"
-      valign="middle">周 旋 唱</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-type>subtitle</credit-type>
-    <credit-words default-x="455" default-y="970" justify="center" valign="middle">（“長相思”插曲）</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-words default-x="63" default-y="1025" justify="left" valign="bottom">Key of ♭B 4/4</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-type>lyricist</credit-type>
-    <credit-words default-x="850" default-y="1040" justify="right" valign="bottom">范 烟 橋 詞</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-type>composer</credit-type>
-    <credit-words default-x="850" default-y="1020" justify="right" valign="bottom">林 七 枚 曲</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-words default-x="850" default-y="100" font-weight="bold" justify="center" valign="bottom">No. 35645 A</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-type>rights</credit-type>
-    <credit-image source="https://www.discogs.com/label/1296249-%E7%99%BE%E4%BB%A3%E5%94%B1%E7%89%87#images/46468408" type="image/png" default-x="130" default-y="100" halign="center" valign="middle" />
-  </credit>
-  <part-list>
-    <score-part id="P1">
-      <part-name>VOICE（歌聲）</part-name>
-      <score-instrument id="P1-I1">
-        <instrument-name>Voice</instrument-name>
-        <instrument-sound>voice.female</instrument-sound>
-      </score-instrument>
-    </score-part>
-  </part-list>
-  <part id="P1">
-    <measure number="1">
-      <attributes>
-        <divisions>4</divisions>
-        <key>
-          <fifths>-2</fifths>
-        </key>
-        <time>
-          <beats>4</beats>
-          <beat-type>4</beat-type>
-        </time>
-        <clef>
-          <sign>G</sign>
-          <line>2</line>
-        </clef>
-      </attributes>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>夜</text>
-        </lyric>
-        <lyric number="2">
-          <text>只</text>
-        </lyric>
-        <lyric number="3">
-          <text>換</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>上</text>
-        </lyric>
-        <lyric number="2">
-          <text>見</text>
-        </lyric>
-        <lyric number="3">
-          <text>一</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>half</type>
-        <lyric number="1">
-          <text>海，</text>
-        </lyric>
-        <lyric number="2">
-          <text>她，</text>
-        </lyric>
-        <lyric number="3">
-          <text>換，</text>
-        </lyric>
-      </note>
-    </measure>
-    <measure number="2">
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>夜</text>
-        </lyric>
-        <lyric number="2">
-          <text>笑</text>
-        </lyric>
-        <lyric number="3">
-          <text>新</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>上</text>
-        </lyric>
-        <lyric number="2">
-          <text>臉</text>
-        </lyric>
-        <lyric number="3">
-          <text>天</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>half</type>
-        <lyric number="1">
-          <text>海，</text>
-        </lyric>
-        <lyric number="2">
-          <text>迎，</text>
-        </lyric>
-        <lyric number="3">
-          <text>地，</text>
-        </lyric>
-      </note>
-    </measure>
-    <measure number="3">
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>6</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <dot />
-        <lyric number="2">
-          <text>誰</text>
-        </lyric>
-        <lyric number="1">
-          <text>你</text>
-        </lyric>
-        <lyric number="3">
-          <text>別</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <lyric number="2">
-          <text>知</text>
-        </lyric>
-        <lyric number="3">
-          <text>有</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>6</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <dot />
-        <lyric number="1">
-          <text>是</text>
-        </lyric>
-        <lyric number="2">
-          <text>她</text>
-        </lyric>
-        <lyric number="3">
-          <text>一</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <lyric number="2">
-          <text>内</text>
-        </lyric>
-        <lyric number="1">
-          <text>个</text>
-        </lyric>
-        <lyric number="3">
-          <text>个</text>
-        </lyric>
-      </note>
-    </measure>
-    <measure number="4">
-      <note>
-        <grace />
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <voice>1</voice>
-        <type>eighth</type>
-        <notations>
-          <slur type="start" number="1" />
-        </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <notations>
-          <slur type="stop" number="1" />
-        </notations>
-        <lyric number="3">
-          <text>新</text>
-        </lyric>
-        <lyric number="2">
-          <text>心</text>
-        </lyric>
-        <lyric number="1">
-          <text>不</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="3">
-          <text>環</text>
-        </lyric>
-        <lyric number="2">
-          <text>苦</text>
-        </lyric>
-        <lyric number="1">
-          <text>夜</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>half</type>
-        <lyric number="3">
-          <text>境，</text>
-        </lyric>
-        <lyric number="2">
-          <text>問，</text>
-        </lyric>
-        <lyric number="1">
-          <text>城，</text>
-        </lyric>
-      </note>
-    </measure>
-    <measure number="5">
-      <print new-system="yes" />
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>華</text>
-        </lyric>
-        <lyric number="2">
-          <text>夜</text>
-        </lyric>
-        <lyric number="3">
-          <text>迴</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>燈</text>
-        </lyric>
-        <lyric number="2">
-          <text>生</text>
-        </lyric>
-        <lyric number="3">
-          <text>味</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>half</type>
-        <lyric number="1">
-          <text>起，</text>
-        </lyric>
-        <lyric number="2">
-          <text>活，</text>
-        </lyric>
-        <lyric number="3">
-          <text>着，</text>
-        </lyric>
-      </note>
-    </measure>
-    <measure number="6">
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>車</text>
-        </lyric>
-        <lyric number="2">
-          <text>都</text>
-        </lyric>
-        <lyric number="3">
-          <text>夜</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>聲</text>
-        </lyric>
-        <lyric number="2">
-          <text>為</text>
-        </lyric>
-        <lyric number="3">
-          <text>生</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>half</type>
-        <lyric number="1">
-          <text>响，</text>
-        </lyric>
-        <lyric number="2">
-          <text>了，</text>
-        </lyric>
-        <lyric number="3">
-          <text>活，</text>
-        </lyric>
-      </note>
-    </measure>
-    <measure number="7">
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>歌</text>
-        </lyric>
-        <lyric number="2">
-          <text>衣</text>
-        </lyric>
-        <lyric number="3">
-          <text>如</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>half</type>
-        <lyric number="1">
-          <text>舞</text>
-        </lyric>
-        <lyric number="2">
-          <text>食</text>
-        </lyric>
-        <lyric number="3">
-          <text>夢</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>3</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <dot />
-        <beam number="1">begin</beam>
-        <notations>
-          <slur type="start" number="1" />
-        </notations>
-        <lyric number="1">
-          <text>昇</text>
-        </lyric>
-        <lyric number="2">
-          <text>住</text>
-        </lyric>
-        <lyric number="3">
-          <text>初</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>16th</type>
-        <beam number="1">end</beam>
-        <beam number="2">backward hook</beam>
-        <notations>
-          <slur type="stop" number="1" />
-        </notations>
-      </note>
-    </measure>
-    <measure number="8">
-      <note>
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>16</duration>
-        <voice>1</voice>
-        <type>whole</type>
-        <lyric number="1">
-          <text>平。</text>
-        </lyric>
-        <lyric number="2">
-          <text>行。</text>
-        </lyric>
-        <lyric number="3">
-          <text>醒。</text>
-        </lyric>
-      </note>
-      <direction placement="below">
-        <direction-type>
-          <words>FINE</words>
-        </direction-type>
-        <sound fine="yes" />
-      </direction>
-      <barline location="right">
-        <bar-style>light-heavy</bar-style>
-        <repeat direction="backward" />
-      </barline>
-    </measure>
-    <measure number="9">
-      <print new-system="yes" />
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>6</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <dot />
-        <lyric number="1">
-          <text>酒</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <lyric number="1">
-          <text>不</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>醉</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>人</text>
-        </lyric>
-      </note>
-    </measure>
-    <measure number="10">
-      <note>
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">begin</beam>
-        <notations>
-          <slur type="start" number="1" />
-        </notations>
-        <lyric number="1">
-          <text>人</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">continue</beam>
-        <notations>
-          <slur type="stop" number="1" />
-        </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">continue</beam>
-        <notations>
-          <slur type="start" number="1" />
-        </notations>
-        <lyric number="1">
-          <text>自</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">end</beam>
-        <notations>
-          <slur type="stop" number="1" />
-        </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>half</type>
-        <lyric number="1">
-          <text>醉</text>
-        </lyric>
-      </note>
-    </measure>
-    <measure number="11">
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>胡</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>天</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>胡</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">begin</beam>
-        <notations>
-          <slur type="start" number="1" />
-        </notations>
-        <lyric number="1">
-          <text>帝</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">end</beam>
-        <notations>
-          <slur type="stop" number="1" />
-        </notations>
-      </note>
-    </measure>
-    <measure number="12">
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>蹉</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">begin</beam>
-        <lyric number="1">
-          <text>跎</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">end</beam>
-        <lyric number="1">
-          <text>了</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>6</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <dot />
-        <notations>
-          <slur type="start" number="1" />
-        </notations>
-        <lyric number="1">
-          <text>青</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <notations>
-          <slur type="stop" number="1" />
-        </notations>
-      </note>
-    </measure>
-    <measure number="13">
-      <print new-system="yes" />
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>16</duration>
-        <tie type="start" />
-        <voice>1</voice>
-        <type>whole</type>
-        <notations>
-          <tied type="start" />
-        </notations>
-        <lyric number="1">
-          <text>春！</text>
-        </lyric>
-      </note>
-    </measure>
-    <measure number="14">
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>12</duration>
-        <tie type="stop" />
-        <voice>1</voice>
-        <type>half</type>
-        <dot />
-        <notations>
-          <tied type="stop" />
-        </notations>
-      </note>
-      <note>
-        <rest />
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-      </note>
-    </measure>
-    <measure number="15">
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>6</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <dot />
-        <lyric number="1">
-          <text>曉</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <lyric number="1">
-          <text>色</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>朦</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>朧，</text>
-        </lyric>
-      </note>
-    </measure>
-    <measure number="16">
-      <note>
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">begin</beam>
-        <notations>
-          <slur type="start" number="1" />
-        </notations>
-        <lyric number="1">
-          <text>倦</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">continue</beam>
-        <notations>
-          <slur type="stop" number="1" />
-        </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">continue</beam>
-        <notations>
-          <slur type="start" number="1" />
-        </notations>
-        <lyric number="1">
-          <text>眼</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">end</beam>
-        <notations>
-          <slur type="stop" number="1" />
-        </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>惺</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>忪</text>
-        </lyric>
-      </note>
-    </measure>
-    <measure number="17">
-      <print new-system="yes" />
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>大</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>家</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>歸</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">begin</beam>
-        <notations>
-          <slur type="start" number="1" />
-        </notations>
-        <lyric number="1">
-          <text>去，</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">end</beam>
-        <notations>
-          <slur type="stop" number="1" />
-        </notations>
-      </note>
-    </measure>
-    <measure number="18">
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>心</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">begin</beam>
-        <lyric number="1">
-          <text>靈</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">end</beam>
-        <lyric number="1">
-          <text>兒</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>6</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <dot />
-        <lyric number="1">
-          <text>隨</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <lyric number="1">
-          <text>着</text>
-        </lyric>
-      </note>
-    </measure>
-    <measure number="19">
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>3</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <dot />
-        <beam number="1">begin</beam>
-        <notations>
-          <slur type="start" number="1" />
-        </notations>
-        <lyric number="1">
-          <text>車</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>16th</type>
-        <beam number="1">end</beam>
-        <beam number="2">backward hook</beam>
-        <notations>
-          <slur type="stop" number="1" />
-          <slur type="start" number="1" />
-        </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">begin</beam>
-        <notations>
-          <slur type="stop" number="1" />
-          <slur type="start" number="1" />
-        </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">end</beam>
-        <notations>
-          <slur type="stop" number="1" />
-        </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>3</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <dot />
-        <beam number="1">begin</beam>
-        <notations>
-          <slur type="start" number="1" />
-        </notations>
-        <lyric number="1">
-          <text>輪</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>16th</type>
-        <beam number="1">end</beam>
-        <beam number="2">backward hook</beam>
-        <notations>
-          <slur type="stop" number="1" />
-          <slur type="start" number="1" />
-        </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">begin</beam>
-        <notations>
-          <slur type="stop" number="1" />
-          <slur type="start" number="1" />
-        </notations>
-      </note>
-      <note>
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <beam number="1">end</beam>
-        <notations>
-          <slur type="stop" number="1" />
-        </notations>
-      </note>
-    </measure>
-    <measure number="20">
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>轉</text>
-        </lyric>
-      </note>
-      <note>
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <lyric number="1">
-          <text>動！</text>
-        </lyric>
-      </note>
-      <note>
-        <rest />
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>half</type>
-      </note>
-      <direction placement="below">
-        <direction-type>
-          <words>D.C. al</words>
-          <words>FINE</words>
-        </direction-type>
-        <sound dacapo="yes" />
-      </direction>
-      <barline location="right">
-        <bar-style>light-heavy</bar-style>
-      </barline>
-    </measure>
-  </part>
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!DOCTYPE score-partwise PUBLIC '-//Recordare//DTD MusicXML 4.0 Partwise//EN' 'http://www.musicxml.org/dtds/partwise.dtd'>
+<score-partwise>
+	<work>
+		<work-number>35645</work-number>
+		<work-title>夜上海/星心相印</work-title>
+	</work>
+	<movement-title>夜上海</movement-title>
+	<identification>
+		<creator type='composer'>林七枚</creator>
+		<creator type='lyricist'>范烟橋</creator>
+		<creator type='artist'>周旋</creator>
+		<rights>上海百代公司唱片</rights>
+		<encoding>
+			<supports element='accidental' type='yes'/>
+			<supports element='transpose' type='yes'/>
+			<supports attribute='new-page' element='print' type='yes' value='yes'/>
+			<supports attribute='new-system' element='print' type='yes' value='yes'/>
+		</encoding>
+		<source>Based on the lyric sheet that came with the Pathé (百代唱片) 35645 shellac record.</source>
+	</identification>
+	<defaults>
+		<scaling>
+			<millimeters>7</millimeters>
+			<tenths>40</tenths>
+		</scaling>
+		<page-layout>
+			<page-height>1200</page-height>
+			<page-width>915</page-width>
+			<page-margins type='both'>
+				<left-margin>60</left-margin>
+				<right-margin>60</right-margin>
+				<top-margin>20</top-margin>
+				<bottom-margin>20</bottom-margin>
+			</page-margins>
+		</page-layout>
+		<system-layout>
+			<system-margins>
+				<left-margin>0</left-margin>
+				<right-margin>0</right-margin>
+			</system-margins>
+			<top-system-distance>285</top-system-distance>
+		</system-layout>
+		<word-font font-weight='normal' font-family='serif' font-size='11'/>
+		<lyric-font font-weight='normal' font-family='serif' font-size='11'/>
+		<lyric-language xml:lang='zh'/>
+	</defaults>
+	<credit page='1'>
+		<credit-type>title</credit-type>
+		<credit-words default-x='395' default-y='1120' justify='center' valign='bottom' font-weight='bold' font-family='serif' font-size='18' underline='2'>夜 上 海</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-type>subtitle</credit-type>
+		<credit-words default-x='395' default-y='1035' justify='center' valign='bottom' font-weight='bold' font-family='serif' font-size='11'>周 旋 唱</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-type>subtitle</credit-type>
+		<credit-words default-x='395' default-y='970' justify='center' valign='bottom' font-weight='normal' font-family='serif' font-size='10'>（“長相思”插曲）</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-words default-x='63' default-y='1035' justify='left' valign='bottom' font-weight='normal' font-family='sans-serif' font-size='7'>Key of ♭B 4/4</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-type>lyricist</credit-type>
+		<credit-words default-x='850' default-y='1035' justify='right' valign='bottom' font-weight='normal' font-family='serif' font-size='11'>范 烟 橋 詞</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-type>composer</credit-type>
+		<credit-words default-x='850' default-y='1010' justify='right' valign='bottom' font-weight='normal' font-family='serif' font-size='11'>林 七 枚 曲</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-words default-x='395' default-y='95' justify='center' valign='bottom' font-weight='bold' font-family='serif' font-size='11'>No. 35645 A</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-type>rights</credit-type>
+		<credit-image source='https://www.discogs.com/label/1296249-%E7%99%BE%E4%BB%A3%E5%94%B1%E7%89%87#images/46468408' type='image/png' default-x='130' default-y='100' halign='center' valign='middle'/>
+	</credit>
+	<part-list>
+		<score-part id='P1'>
+			<part-name>VOICE（歌聲）</part-name>
+			<score-instrument id='P1-I1'>
+				<instrument-name>Voice</instrument-name>
+				<instrument-sound>voice.female</instrument-sound>
+			</score-instrument>
+		</score-part>
+	</part-list>
+<!--=========================================================-->
+	<part id='P1'>
+		<measure number='1'>
+			<attributes>
+				<divisions>4</divisions>
+				<key>
+					<fifths>-2</fifths>
+				</key>
+				<time>
+					<beats>4</beats>
+					<beat-type>4</beat-type>
+				</time>
+				<clef>
+					<sign>G</sign>
+					<line>2</line>
+				</clef>
+			</attributes>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>夜</text>
+				</lyric>
+				<lyric number='2'>
+					<text>只</text>
+				</lyric>
+				<lyric number='3'>
+					<text>換</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>上</text>
+				</lyric>
+				<lyric number='2'>
+					<text>見</text>
+				</lyric>
+				<lyric number='3'>
+					<text>一</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<text>海，</text>
+					<end-line/>
+				</lyric>
+				<lyric number='2'>
+					<text>她，</text>
+					<end-line/>
+				</lyric>
+				<lyric number='3'>
+					<text>換，</text>
+					<end-line/>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='2'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>夜</text>
+				</lyric>
+				<lyric number='2'>
+					<text>笑</text>
+				</lyric>
+				<lyric number='3'>
+					<text>新</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>上</text>
+				</lyric>
+				<lyric number='2'>
+					<text>臉</text>
+				</lyric>
+				<lyric number='3'>
+					<text>天</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<text>海，</text>
+					<end-line/>
+				</lyric>
+				<lyric number='2'>
+					<text>迎，</text>
+					<end-line/>
+				</lyric>
+				<lyric number='3'>
+					<text>地，</text>
+					<end-line/>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='3'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<lyric number='2'>
+					<text>誰</text>
+				</lyric>
+				<lyric number='1'>
+					<text>你</text>
+				</lyric>
+				<lyric number='3'>
+					<text>別</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<lyric number='2'>
+					<text>知</text>
+				</lyric>
+				<lyric number='3'>
+					<text>有</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<lyric number='1'>
+					<text>是</text>
+				</lyric>
+				<lyric number='2'>
+					<text>她</text>
+				</lyric>
+				<lyric number='3'>
+					<text>一</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<lyric number='2'>
+					<text>内</text>
+				</lyric>
+				<lyric number='1'>
+					<text>个</text>
+				</lyric>
+				<lyric number='3'>
+					<text>个</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='4'>
+			<note>
+				<grace/>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<voice>1</voice>
+				<type>eighth</type>
+				<notations>
+					<slur type='start' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+				<lyric number='3'>
+					<text>新</text>
+				</lyric>
+				<lyric number='2'>
+					<text>心</text>
+				</lyric>
+				<lyric number='1'>
+					<text>不</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='3'>
+					<text>環</text>
+				</lyric>
+				<lyric number='2'>
+					<text>苦</text>
+				</lyric>
+				<lyric number='1'>
+					<text>夜</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='3'>
+					<text>境，</text>
+					<end-line/>
+				</lyric>
+				<lyric number='2'>
+					<text>問，</text>
+					<end-line/>
+				</lyric>
+				<lyric number='1'>
+					<text>城，</text>
+					<end-line/>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='5'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>華</text>
+				</lyric>
+				<lyric number='2'>
+					<text>夜</text>
+				</lyric>
+				<lyric number='3'>
+					<text>迴</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>燈</text>
+				</lyric>
+				<lyric number='2'>
+					<text>生</text>
+				</lyric>
+				<lyric number='3'>
+					<text>味</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<text>起，</text>
+					<end-line/>
+				</lyric>
+				<lyric number='2'>
+					<text>活，</text>
+					<end-line/>
+				</lyric>
+				<lyric number='3'>
+					<text>着，</text>
+					<end-line/>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='6'>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>車</text>
+				</lyric>
+				<lyric number='2'>
+					<text>都</text>
+				</lyric>
+				<lyric number='3'>
+					<text>夜</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>聲</text>
+				</lyric>
+				<lyric number='2'>
+					<text>為</text>
+				</lyric>
+				<lyric number='3'>
+					<text>生</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<text>响，</text>
+					<end-line/>
+				</lyric>
+				<lyric number='2'>
+					<text>了，</text>
+					<end-line/>
+				</lyric>
+				<lyric number='3'>
+					<text>活，</text>
+					<end-line/>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='7'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>歌</text>
+				</lyric>
+				<lyric number='2'>
+					<text>衣</text>
+				</lyric>
+				<lyric number='3'>
+					<text>如</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>8</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<text>舞</text>
+				</lyric>
+				<lyric number='2'>
+					<text>食</text>
+				</lyric>
+				<lyric number='3'>
+					<text>夢</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<text>昇</text>
+				</lyric>
+				<lyric number='2'>
+					<text>住</text>
+				</lyric>
+				<lyric number='3'>
+					<text>初</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<beam number='1'>end</beam>
+				<beam number='2'>backward hook</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='8'>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>16</duration>
+				<voice>1</voice>
+				<type>whole</type>
+				<lyric number='1'>
+					<text>平。</text>
+					<end-line/>
+					<end-paragraph/>
+				</lyric>
+				<lyric number='2'>
+					<text>行。</text>
+					<end-line/>
+					<end-paragraph/>
+				</lyric>
+				<lyric number='3'>
+					<text>醒。</text>
+					<end-line/>
+					<end-paragraph/>
+				</lyric>
+			</note>
+			<direction placement='below'>
+				<direction-type>
+					<words font-family='serif'>FINE</words>
+				</direction-type>
+				<sound fine='yes'/>
+			</direction>
+			<barline location='right'>
+				<bar-style>light-heavy</bar-style>
+				<repeat direction='backward'/>
+			</barline>
+		</measure>
+<!--=========================================================-->
+		<measure number='9'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<lyric number='1'>
+					<text>酒</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<lyric number='1'>
+					<text>不</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>醉</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>人</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='10'>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<text>人</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>continue</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>continue</beam>
+				<notations>
+					<slur type='start' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<text>自</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<text>醉</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='11'>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>胡</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>天</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>胡</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<text>帝</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='12'>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>蹉</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<lyric number='1'>
+					<text>跎</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<lyric number='1'>
+					<text>了</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<notations>
+					<slur type='start' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<text>青</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='13'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>16</duration>
+				<tie type='start'/>
+				<voice>1</voice>
+				<type>whole</type>
+				<notations>
+					<tied type='start'/>
+				</notations>
+				<lyric number='1'>
+					<text>春！</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='14'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>12</duration>
+				<tie type='stop'/>
+				<voice>1</voice>
+				<type>half</type>
+				<dot/>
+				<notations>
+					<tied type='stop'/>
+				</notations>
+			</note>
+			<note>
+				<rest/>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='15'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<lyric number='1'>
+					<text>曉</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<lyric number='1'>
+					<text>色</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>朦</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>朧，</text>
+					<end-line/>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='16'>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<text>倦</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>continue</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>continue</beam>
+				<notations>
+					<slur type='start' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<text>眼</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>惺</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>忪</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='17'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>大</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>家</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>歸</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<text>去，</text>
+					<end-line/>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='18'>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>心</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<lyric number='1'>
+					<text>靈</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<lyric number='1'>
+					<text>兒</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<lyric number='1'>
+					<text>隨</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<lyric number='1'>
+					<text>着</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='19'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<text>車</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<beam number='1'>end</beam>
+				<beam number='2'>backward hook</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+					<slur type='start' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+					<slur type='start' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<text>輪</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<beam number='1'>end</beam>
+				<beam number='2'>backward hook</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+					<slur type='start' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+					<slur type='start' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='20'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>轉</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<text>動！</text>
+				</lyric>
+			</note>
+			<note>
+				<rest/>
+				<duration>8</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
+			<direction placement='below'>
+				<direction-type>
+					<words>D.C. al&#xD;&#xA;FINE</words>
+				</direction-type>
+				<sound dacapo='yes'/>
+			</direction>
+			<barline location='right'>
+				<bar-style>light-heavy</bar-style>
+			</barline>
+		</measure>
+	</part>
+<!--=========================================================-->
 </score-partwise>
