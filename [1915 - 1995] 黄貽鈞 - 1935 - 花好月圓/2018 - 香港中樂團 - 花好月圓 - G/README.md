@@ -4,39 +4,41 @@ Sheet Music by Hong Kong Chinese Orchestra （香港中樂團).
 - Format:
   - PDF
 - Notation system: Modern staff notation
-- Instruments:
-  - Flutes
-    - Chinese piccolo (短笛)
-    - Chinese flute (长笛)
-  - Shengs (笙)
-    - Soprano sheng (高音笙)
-    - Alto sheng (中音笙)
-  - Basson
-  - Chinese hammered dulcimer - Yangqin (揚琴)
-  - Mandolins and Lutes:
-    - Liuqin (柳琴)
-    - Pipa (琵琶)
-    - Ruan (阮)
-      - Zhongruan (中阮)
-      - Daruan (大阮)
-    - Sanxian (三弦)
-  - Wooden fish (木魚)
-    - Low
-    - Hi
-  - Tamborine
-  - Bo (大鈸)
-  - Timpani
-  - Fiddles
-    - Gaohu (高胡)
-    - Erhu (二胡)
-    - Zhonghu (中胡)
-    - Gehu (革胡)
-    - Bass Gehu (低音革胡)
-- Key: G
-- Tempo:
-  - Allegro con Brio
-    - circa 156 BPM
-  - Moderato
+- Arrangement:
+  - Key: G
+  - Tempo:
+    - Allegro con Brio
+      - circa 156 BPM
+    - Moderato
+  - Genre: Chinese orchestra
+  - Instruments:
+    - Flutes
+      - Chinese piccolo (短笛)
+      - Chinese flute (长笛)
+    - Shengs (笙)
+      - Soprano sheng (高音笙)
+      - Alto sheng (中音笙)
+    - Basson
+    - Chinese hammered dulcimer - Yangqin (揚琴)
+    - Mandolins and Lutes:
+      - Liuqin (柳琴)
+      - Pipa (琵琶)
+      - Ruan (阮)
+        - Zhongruan (中阮)
+        - Daruan (大阮)
+      - Sanxian (三弦)
+    - Wooden fish (木魚)
+      - Low
+      - Hi
+    - Tamborine
+    - Bo (大鈸)
+    - Timpani
+    - Fiddles
+      - Gaohu (高胡)
+      - Erhu (二胡)
+      - Zhonghu (中胡)
+      - Gehu (革胡)
+      - Bass Gehu (低音革胡)
 - Source
   - URL: https://www.hkco.org/uploads/docs/5a8b92eb12d681.pdf
 - Layout
