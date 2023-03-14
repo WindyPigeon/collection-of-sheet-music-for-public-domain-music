@@ -1,0 +1,40 @@
+- Book:
+  - Title: Buku teks Pendidikan Muzik KSSM Tingkatan 1
+  - Publisher:
+    - Name: Aras Mega (M) Sdn. Bhd.
+    - Website: www.arasmega.com
+  - Published date: 2016
+  - ISBN: 978-967-0520-70-4
+  - Price: RM12.20
+  - Pages:
+    - Front matter:
+      - v: Pendahuluan
+      - vi: Pengenalan Ikon
+    - Body matter: 114 pages
+- Chapter: Unit 1
+  - Title: Muzik Alat Penyatuan
+- Page: p. 11
+
+- Sheet Music:
+  - Western music notation
+  - Lead sheet
+  - Arrangement
+    - Key: C
+    - Tempo: 90
+  - Layout:
+    - Page size:
+      - Executive
+      - Width: 18.979 cm = 189.79 mm
+      - Height: 25.329 cm = 253.29 mm
+    - Staff size:
+      - Staff height: about 0.6 cm = 6 mm
+      - Staff spacing: 6 / 4 = 1.5 mm
+    - Title:
+      - Font:
+        - Font family: CooperBlack, serif
+        - Font weight: bold
+        - Font size: 13.21
+    - Lyrics:
+      - Font:
+        - Font family: serif
+        - Font size: About 7 px
