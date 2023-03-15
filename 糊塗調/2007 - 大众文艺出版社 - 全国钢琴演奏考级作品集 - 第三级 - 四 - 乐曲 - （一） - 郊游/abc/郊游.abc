@@ -1,0 +1,33 @@
+X:2007
+T:（一）郊游
+C:路珈 改编
+%%score { 1 | 2 }
+L:1/8
+M:2/4
+K:G
+V:1 treble
+V:2 bass
+V:1
+"^Allegro 跳跃地" (!3!e/g/e/d/ B2) | (e/g/e/d/ B2) | (!1!Bg) (ed) | (G>A B2) |
+(BB/d/ !3!e/g/d) | (!4!d/e/d/B/ A2) | (!3!G/A/B) (.A.G) | (E>D E2) |
+!f! (!3!GG/A/ tBtB) | (G/A/B) (.A.G) | (!2!E>D E2) |!mp! (!2!e>d e2) |
+(!1!d/e/f) (.e.d) | (B>A B2) | !mf! (!1!d'/e'/.f')"_rit." (.e'.d') |[K:G] (b>a !fermata!b2) || 
+%%newpage
+[K:D]"^Meno mosso 抒情地" !1!B4 | (!2!d3 f | e2 d2) | (!5!a3 !2!c | !1!B2 !3!A2) | (D3 F |$ 
+E2 D2 | !1!B,4) | !5!B4 |!pp! !1!b4 | (!2!d'3 f' | e'2 d'2) |
+(f'3 c' | b2 a2) | (d3 f | e2 d2 | !fermata!B4) ||[K:G]"^Tempo I" (e/g/e/d/ B2) |
+(e/g/e/d/ B2) | (Bg) (ed) | (G>A B2) | (BB/d/ e/g/d) | (d/e/d/B/ A2) |
+!p! (!3!G/A/B) (.A.G) | (E>D E2) | (G/G/A tB)tB | "^rit." t!3!g/ta/tb tatg | (!1!!2!!5![GAe]2!ff! [abe']) z |] 
+V:2
+!5!E,!2!!1![B,E] !4!G,[B,E] | E,[B,E] G,[B,E] | z [E,B,] z [F,D] | z [G,D] z [B,E] | 
+E,[B,E] G,[B,E] | !5!D,!3!!1![G,D] !5!G,!3!!1![A,E] | z .[B,,G,] z .[^C,A,] | z [E,B,] z [E,B,] |
+G,[B,E] E,[B,E] | z .[B,,G,] z .[^C,A,] | z [E,B,] z [E,B,] |[K:treble] z [DB] z [DB] |
+D[FB] B,[FB] | z [A,F] z [B,F] | z [db] z [Bf] |[K:G] z [Bf] !fermata![Bf]2 ||
+%%newpage
+[K:D] z !4!B, !2!D!1!E | !3!FA B z | z !5!A, !4!B,!2!D | !1!E!3!F A z |[K:bass] z (!4!B,, D,E, | !3!F,A, B,) z |
+z [A,,E,] z [A,,E,] | z [B,,F,] [B,,F,]2 |[K:treble] z [A,F] [B,F]2 | z (!4!B!2!d!1!e | !3!fab) z | z (!5!AB!2!d |
+efa) z | z (!4!B,DE | FAB) z | z [A,E] z [A,E] | 
+!fermata![B,F]4 ||[K:G][K:bass] E,[B,E] G,[B,E] |
+E,[B,E] G,[B,E] | z [E,B,] z [F,D] | z [G,D] z [B,E] | E,[B,E] G,[B,E] | D,[G,D] G,[A,E] |
+z .[B,,G,] z .[^C,A,] | z [E,B,] z [E,B,] | 
+G,[B,E] E,[B,E] | t!3!G,,/tA,,/tB,, tA,,tG,, | (E,2 E,,) z |] 
