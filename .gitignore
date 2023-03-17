@@ -42,6 +42,7 @@
 
 # MuseScore backup folder
 **/.mscbackup/
+*.autosave
 
 # OpenUTAU autosaved backup project
 *-autosave.ustx
