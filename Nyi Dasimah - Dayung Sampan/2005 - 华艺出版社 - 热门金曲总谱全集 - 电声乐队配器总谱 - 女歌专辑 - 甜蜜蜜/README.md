@@ -1,0 +1,19 @@
+
+- Work:
+  - Title: 热门金曲总谱全集
+  - Subtitle: 电声乐队配器总谱
+  - Publisher: 华艺出版社
+  - Release date: 2004-12
+  - ISBN: 7-80142-621-5
+  - Editor: 王雨生
+- Volume: 女歌专辑
+- Transcriber:
+  - Name: 金耳朵
+  - Website: www.jinerduo.com
+- Artist: 邓丽君
+- Key: D
+- Tempo: 64 BPM
+- Page: p. 279
+- Sheet music:
+  - Musical notation:
+    - Numbered music notation
