@@ -1,0 +1,2756 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE score-partwise PUBLIC '-//Recordare//DTD MusicXML 4.0 Partwise//EN' 'http://www.musicxml.org/dtds/partwise.dtd'>
+<score-partwise>
+	<work>
+		<work-number>PTH. 10011</work-number>
+		<work-title>新載歌載舞 / 賣什貨</work-title>
+	</work>
+	<movement-number>A</movement-number>
+	<movement-title>新載歌載舞</movement-title>
+	<identification>
+		<creator type='composer'>胡文森</creator>
+		<creator type='lyricist'>吳一嘯</creator>
+		<creator type='artist'>白鳳</creator>
+		<rights>上海百代公司唱片</rights>
+		<encoding>
+			<supports attribute='new-system' element='print' type='yes' value='yes'/>
+			<supports attribute='new-page' element='print' type='yes' value='yes'/>
+			<supports element='accidental' type='yes'/>
+			<supports element='beam' type='yes'/>
+			<supports element='stem' type='yes'/>
+		</encoding>
+	</identification>
+	<credit page='1'>
+		<credit-type>title</credit-type>
+		<credit-words justify='center' valign='bottom'>新載歌載舞</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-type>subtitle</credit-type>
+		<credit-words justify='center' valign='bottom'>白鳳唱</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-type>composer</credit-type>
+		<credit-words justify='right' valign='bottom'>廣東小曲</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-words justify='left' valign='bottom'>E 調 2/4</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-type>rights</credit-type>
+		<credit-words justify='center' valign='bottom'>上海百代公司唱片</credit-words>
+	</credit>
+	<part-list>
+		<score-part id='P1'>
+			<part-name></part-name>
+		</score-part>
+	</part-list>
+	<part id='P1'>
+		<measure number='1'>
+			<attributes>
+				<divisions>2</divisions>
+				<key>
+					<fifths>4</fifths>
+				</key>
+				<time>
+					<beats>2</beats>
+					<beat-type>4</beat-type>
+				</time>
+				<clef>
+					<sign>G</sign>
+					<line>2</line>
+				</clef>
+			</attributes>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='2'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='3'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='4'>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='5'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='6'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='7'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='8'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='9'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
+		</measure>
+		<measure number='10'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>春</text>
+				</lyric>
+				<play>
+					<ipa>tsʰɵn</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>酒</text>
+				</lyric>
+				<play>
+					<ipa>tsɐu</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='11'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>綠</text>
+				</lyric>
+				<play>
+					<ipa>lʊk</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='12'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>夜</text>
+				</lyric>
+				<play>
+					<ipa>jɛ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>燈</text>
+				</lyric>
+				<play>
+					<ipa>tɐŋ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='13'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>紅</text>
+				</lyric>
+				<play>
+					<ipa>hʊŋ</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='14'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<notations>
+					<slur type='start' placement='above' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>笙</text>
+				</lyric>
+				<play>
+					<ipa>saŋ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='15'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<notations>
+					<slur type='start' placement='above' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>歌</text>
+				</lyric>
+				<play>
+					<ipa>kɔ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='16'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>起</text>
+				</lyric>
+				<play>
+					<ipa>hei</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>自</text>
+				</lyric>
+				<play>
+					<ipa>tsi</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>玉</text>
+				</lyric>
+				<play>
+					<ipa>jʊk</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>樓</text>
+				</lyric>
+				<play>
+					<ipa>lɐu</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='17'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>中</text>
+				</lyric>
+				<play>
+					<ipa>tsʊŋ</ipa>
+				</play>
+			</note>
+			<direction placement='below'>
+				<direction-type>
+					<words>（過門）</words>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='18'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='19'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='20'>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='21'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
+		</measure>
+		<measure number='22'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>莫</text>
+				</lyric>
+				<play>
+					<ipa>mɔk</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>道</text>
+				</lyric>
+				<play>
+					<ipa>tou</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='23'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>風</text>
+				</lyric>
+				<play>
+					<ipa>fʊŋ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>流</text>
+				</lyric>
+				<play>
+					<ipa>lɐu</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='24'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>如</text>
+				</lyric>
+				<play>
+					<ipa>jy</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>幻</text>
+				</lyric>
+				<play>
+					<ipa>wan</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='25'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>夢</text>
+				</lyric>
+				<play>
+					<ipa>mʊŋ</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='26'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>花</text>
+				</lyric>
+				<play>
+					<ipa>fa</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>月</text>
+				</lyric>
+				<play>
+					<ipa>jyt</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='27'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>良</text>
+				</lyric>
+				<play>
+					<ipa>lœŋ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>宵</text>
+				</lyric>
+				<play>
+					<ipa>siu</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='28'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>意</text>
+				</lyric>
+				<play>
+					<ipa>ji</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>萬</text>
+				</lyric>
+				<play>
+					<ipa>man</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='29'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>重</text>
+				</lyric>
+				<play>
+					<ipa>tsʰʊŋ</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='30'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>無</text>
+				</lyric>
+				<play>
+					<ipa>mou</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>關</text>
+				</lyric>
+				<play>
+					<ipa>kwan</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='31'>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>鎖</text>
+				</lyric>
+				<play>
+					<ipa>sɔ</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='32'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>廣</text>
+				</lyric>
+				<play>
+					<ipa>kwɔŋ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>寒</text>
+				</lyric>
+				<play>
+					<ipa>hɔn</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='33'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>宮</text>
+				</lyric>
+				<play>
+					<ipa>kʊŋ</ipa>
+				</play>
+			</note>
+			<direction placement='below'>
+				<direction-type>
+					<words>（過門）</words>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='34'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='35'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='36'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='37'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
+		</measure>
+		<measure number='38'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>任</text>
+				</lyric>
+				<play>
+					<ipa>jɐm</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>君</text>
+				</lyric>
+				<play>
+					<ipa>kwɐn</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='39'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>陶</text>
+				</lyric>
+				<play>
+					<ipa>tʰou</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>醉</text>
+				</lyric>
+				<play>
+					<ipa>tsɵy</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='40'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>入</text>
+				</lyric>
+				<play>
+					<ipa>jɐp</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>花</text>
+				</lyric>
+				<play>
+					<ipa>fa</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='41'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>叢</text>
+				</lyric>
+				<play>
+					<ipa>tsʰʊŋ</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='42'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>天</text>
+				</lyric>
+				<play>
+					<ipa>tʰin</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>花</text>
+				</lyric>
+				<play>
+					<ipa>fa</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='43'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>舞</text>
+				</lyric>
+				<play>
+					<ipa>mou</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='44'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>若</text>
+				</lyric>
+				<play>
+					<ipa>jɛ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>游</text>
+				</lyric>
+				<play>
+					<ipa>jɐu</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='45'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>龍</text>
+				</lyric>
+				<play>
+					<ipa>lʊŋ</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='46'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>魂</text>
+				</lyric>
+				<play>
+					<ipa>wɐn</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='above' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>銷</text>
+				</lyric>
+				<play>
+					<ipa>siu</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='47'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>未</text>
+				</lyric>
+				<play>
+					<ipa>mei</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='48'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>問</text>
+				</lyric>
+				<play>
+					<ipa>mɐn</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='above' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>東</text>
+				</lyric>
+				<play>
+					<ipa>tʊŋ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='49'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>風</text>
+				</lyric>
+				<play>
+					<ipa>fʊŋ</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='50'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>且</text>
+				</lyric>
+				<play>
+					<ipa>tsʰɛ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>將</text>
+				</lyric>
+				<play>
+					<ipa>tsœŋ</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='51'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>愁</text>
+				</lyric>
+				<play>
+					<ipa>sɐu</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>懷</text>
+				</lyric>
+				<play>
+					<ipa>wai</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='52'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>付</text>
+				</lyric>
+				<play>
+					<ipa>fu</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>與</text>
+				</lyric>
+				<play>
+					<ipa>jy</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>一</text>
+				</lyric>
+				<play>
+					<ipa>jɐt</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>夢</text>
+				</lyric>
+				<play>
+					<ipa>mʊŋ</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='53'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>中</text>
+				</lyric>
+				<play>
+					<ipa>tsʊŋ</ipa>
+				</play>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<direction placement='below'>
+				<direction-type>
+					<words>（過門）</words>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='54'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='55'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='56'>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='57'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
+		</measure>
+		<measure number='58'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>今</text>
+				</lyric>
+				<play>
+					<ipa>kɐm</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>宵</text>
+				</lyric>
+				<play>
+					<ipa>siu</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='59'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>雙</text>
+				</lyric>
+				<play>
+					<ipa>sœŋ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>飛</text>
+				</lyric>
+				<play>
+					<ipa>fei</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='60'>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<tie type='start'/>
+				<voice>1</voice>
+				<type>half</type>
+				<notations>
+					<tied type='start'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>燕</text>
+				</lyric>
+				<play>
+					<ipa>jin</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='61'>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<tie type='stop'/>
+				<voice>1</voice>
+				<type>half</type>
+				<notations>
+					<tied type='stop'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='62'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>明</text>
+				</lyric>
+				<play>
+					<ipa>mɪŋ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>日</text>
+				</lyric>
+				<play>
+					<ipa>jɐt</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='63'>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>有</text>
+				</lyric>
+				<play>
+					<ipa>jɐu</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>西</text>
+				</lyric>
+				<play>
+					<ipa>sɐi</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='64'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<tie type='start'/>
+				<voice>1</voice>
+				<type>half</type>
+				<notations>
+					<tied type='start'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>東</text>
+				</lyric>
+				<play>
+					<ipa>tʊŋ</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='65'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<tie type='stop'/>
+				<voice>1</voice>
+				<type>half</type>
+				<notations>
+					<tied type='stop'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='66'>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>人</text>
+				</lyric>
+				<play>
+					<ipa>jɐn</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>如</text>
+				</lyric>
+				<play>
+					<ipa>jy</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='67'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>山</text>
+				</lyric>
+				<play>
+					<ipa>san</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>與</text>
+				</lyric>
+				<play>
+					<ipa>jy</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='68'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<tie type='start'/>
+				<voice>1</voice>
+				<type>half</type>
+				<notations>
+					<tied type='start'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>水</text>
+				</lyric>
+				<play>
+					<ipa>sɵy</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='69'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<tie type='stop'/>
+				<voice>1</voice>
+				<type>half</type>
+				<notations>
+					<tied type='stop'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='70'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>何</text>
+				</lyric>
+				<play>
+					<ipa>hɔ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>處</text>
+				</lyric>
+				<play>
+					<ipa>tsʰy</ipa>
+				</play>
+			</note>
+		</measure>
+		<measure number='71'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>不</text>
+				</lyric>
+				<play>
+					<ipa>pɐt</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+				<notations>
+					<slur type='start' placement='below' number='1'/>
+				</notations>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>相</text>
+				</lyric>
+				<play>
+					<ipa>sœŋ</ipa>
+				</play>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+				<notations>
+					<slur type='stop' number='1'/>
+				</notations>
+			</note>
+		</measure>
+		<measure number='72'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>逢</text>
+				</lyric>
+				<play>
+					<ipa>fʊŋ</ipa>
+				</play>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='73'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='74'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number='75'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+			<barline location='right'>
+				<bar-style>light-heavy</bar-style>
+			</barline>
+		</measure>
+	</part>
+</score-partwise>
