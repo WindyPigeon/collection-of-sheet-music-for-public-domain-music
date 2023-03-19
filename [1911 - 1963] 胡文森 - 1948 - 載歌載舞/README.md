@@ -65,21 +65,6 @@
 
 ## Derivative
 
-- 為食經
-  - Title:
-    - 為食經
-  - Movie:
-    - Title:
-      - Chinese:
-        - Orthography:
-          - Traditional Chinese: 餐搵餐食餐餐有
-      - English:
-        - One Day at a Time
-        - To Earn a Living
-    - Release date: 1969-12-3
-  - Performer:
-    - Singer: 沈殿霞
-
 - 賭仔自嘆
   - Title:
     - 賭仔自嘆
@@ -89,9 +74,6 @@
         - Chinese: 馬仔
         - Romanization: Ma Chai
       - Real name: 盧業華
-  - Arrangement:
-    - Key: F
-  - Performer: 馬仔
   - Lyrics:
     > 伶淋六　長衫六
     >
@@ -116,3 +98,57 @@
     > 祖先不開眼　令我好擔憂
     >
     > 從前知道係咁醜　我唔使踎街頭
+  - Recordings
+    - 1954
+      - Work
+        - Title: 賭仔自嘆 / 午夜流鶯
+        - Record label: 樂風最優唱片
+        - Catalog number: DPE 5755
+        - Release date: 1954
+      - Side: B-side
+      - Arrangement:
+        - Key: F
+        - Tempo:
+          - Rumba
+        - Genre: 廣東歌曲
+      - Performer: 馬仔
+
+- 為食經
+  - Title:
+    - 為食經
+  - Movie:
+    - Title:
+      - Chinese:
+        - Orthography:
+          - Traditional Chinese: 餐搵餐食餐餐有
+      - English:
+        - One Day at a Time
+        - To Earn a Living
+    - Release date: 1969-12-3
+  - Performer:
+    - Singer: 沈殿霞
+  - Lyrics:
+    > 燒鷄翼　我自細鍾意食
+    >
+    > 燒乳鴿　好過食筵席
+    >
+    > 甘香可口我最恨食
+    >
+    > 日日辛勞原為了搵食
+    >
+    > 鷄鴨魚虾應該多進食
+    >
+    > 提醒你多食有益
+    >
+    > 脂肪蛋白最有熱力
+    >
+    > 我認真肥壯十分有形
+    >
+    > 體格想健美　學我密咁食
+    >
+    > 我强壯兼有力實冇生癪
+    >
+    > 我出名大食　食嘢真刺激
+    >
+    > 花生水菓更富活力
+    > 豬肝兼豬肚　每日食過至心息
