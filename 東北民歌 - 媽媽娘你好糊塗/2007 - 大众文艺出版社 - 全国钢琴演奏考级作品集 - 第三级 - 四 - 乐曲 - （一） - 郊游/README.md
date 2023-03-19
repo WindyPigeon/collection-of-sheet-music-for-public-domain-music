@@ -1,0 +1,65 @@
+# 郊游
+
+- Book:
+  - Title: 全国钢琴演奏考级作品集
+  - Publisher: 大众文艺出版社
+  - Published date: 2007-7
+  - Editors:
+    - 中国音乐家协会音乐考级委员会
+    - 周铭孙
+  - ISBN: 978-7-80240-042-9
+- Volume: 1 (第一级——第五级)
+- Section: 3 of 5 (第三级)
+- Chapter: 4 of 4 (第四项 乐曲)
+- Subchapter: 1 of 4 (（一）郊游 )
+- Page: pp. 46 - 47 (2 pages)
+- Sheet music
+  - Arrangement:
+    - Key: G → D → G
+    - Tempo: Allegro → rit. → Meno mosso → Tempo I → rit.
+  - Layout:
+    - Staff:
+      - Staff size:
+        - Staff height: about 8 mm
+        - Staff spacing: 8 / 4 = 2 mm
+      - 1st Staff indent: about 350 mm = 350 * 40 / 8 = 1750 tenth
+    - Page size:
+      - Width: about 260 mm = 260 * 40 / 8 = 1300
+      - Height: about 367 mm = 367 * 40 / 8 = 1835
+      - Margin: about 20 mm = 20 * 40 / 8 = 100
+    - System:
+      - Top system distance:
+        - 1st Page: about 66 mm = 66 * 40 / 8 = 330 tenth
+    - Title:
+      - Text: （一）郊游
+      - Font:
+        - Font family: handwritten
+        - Font size: about 25 pt
+      - Position:
+        - Top: about 340 mm = 340 * 40 / 8 = 1700 tenth
+        - Center: 1300 / 2 = 650 tenth
+    - Arranger:
+      - Text: 路　珈改编
+      - Font:
+        - Font family: serif
+        - Font size: about 14 pt
+      - Position:
+        - Right: about 240 mm = 240 * 40 / 8 = 1200 tenth
+        - Bottom: about 310 mm = 310 * 40 / 8 = 1550 tenth
+    - Tempo
+      - Font:
+        - Font family: serif
+        - Font size: about 13 pt
+    - Footer:
+      - Page number:
+        - Font:
+          - Font family: serif
+        - Position:
+          - Bottom: about 38 mm = 38 * 40 / 8 = 190 tenth
+          - Left: about 16 mm = 16 * 40 / 8 = 80 tenth
+      - Chapter title:
+        - Text: 第四项　乐　曲
+        - Font:
+          - Font family: serif
+        - Position:
+          - Bottom: about 35 mm = 35 * 40 / 8 = 175 tenth
