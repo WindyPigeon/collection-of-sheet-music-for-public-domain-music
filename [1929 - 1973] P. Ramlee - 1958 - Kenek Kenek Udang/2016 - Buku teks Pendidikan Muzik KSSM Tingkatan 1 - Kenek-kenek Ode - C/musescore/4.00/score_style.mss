@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="4.00">
+  <Style>
+    <pageWidth>7.47205</pageWidth>
+    <pageHeight>9.97205</pageHeight>
+    <pagePrintableWidth>5.11417</pagePrintableWidth>
+    <pageEvenLeftMargin>1.06299</pageEvenLeftMargin>
+    <pageOddLeftMargin>1.06299</pageOddLeftMargin>
+    <lyricsOddFontFace>FreeSerif</lyricsOddFontFace>
+    <lyricsOddFontSize>7</lyricsOddFontSize>
+    <lyricsOddFontStyle>0</lyricsOddFontStyle>
+    <lyricsOddAlign>center,baseline</lyricsOddAlign>
+    <chordSymbolAFontFace>FreeSerif</chordSymbolAFontFace>
+    <chordSymbolAFontSize>7</chordSymbolAFontSize>
+    <chordSymbolAFontStyle>0</chordSymbolAFontStyle>
+    <titleFontFace>CooperBlack</titleFontFace>
+    <titleFontSize>13.21</titleFontSize>
+    <titleFontStyle>1</titleFontStyle>
+    <titleAlign>center,top</titleAlign>
+    <tempoFontFace>FreeSerif</tempoFontFace>
+    <tempoFontSize>12</tempoFontSize>
+    <tempoFontStyle>0</tempoFontStyle>
+    <tempoAlign>left,baseline</tempoAlign>
+    <measureNumberFontFace>FreeSerif</measureNumberFontFace>
+    <measureNumberFontSize>8</measureNumberFontSize>
+    <measureNumberFontStyle>2</measureNumberFontStyle>
+    <measureNumberAlign>left,baseline</measureNumberAlign>
+    <createMultiMeasureRests>1</createMultiMeasureRests>
+    <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
+  </Style>
+</museScore>
