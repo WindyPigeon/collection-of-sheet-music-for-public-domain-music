@@ -11,13 +11,15 @@
 		<creator type='arranger'>賀綠汀</creator>
 		<creator type='composer'>張仰求</creator>
 		<creator type='lyricist'>田漢</creator>
+		<creator type='artist'>周璇</creator>
+		<creator type='artist'>百代國樂隊</creator>
 		<encoding>
 			<supports element='accidental' type='yes'/>
 			<supports element='transpose' type='yes'/>
 			<supports attribute='new-page' element='print' type='yes' value='yes'/>
 			<supports attribute='new-system' element='print' type='yes' value='yes'/>
 		</encoding>
-		<source>Based on the lyric sheet that came with the Pathé (百代唱片) 35335 shellac record.</source>
+		<source>Based on the lyric sheet that came with the Pathé (百代唱片) 35335 shellac record released in 1937.</source>
 	</identification>
 	<credit page='1'>
 		<credit-type>title</credit-type>
