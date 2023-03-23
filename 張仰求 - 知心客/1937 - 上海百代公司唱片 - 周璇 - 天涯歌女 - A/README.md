@@ -1,6 +1,15 @@
 # 天涯歌女
 
 ## Music
+- Work
+  - Title: 天涯歌女/四季歌
+  - Format: Shellac
+    - 10-inche
+    - 78 RPM
+  - Released date: 1937
+  - Record label: 百代唱片
+  - Catalog number: 35335
+- Side: A-side
 - Title:
   - Chinese:
     - Orthography: 天涯歌女
