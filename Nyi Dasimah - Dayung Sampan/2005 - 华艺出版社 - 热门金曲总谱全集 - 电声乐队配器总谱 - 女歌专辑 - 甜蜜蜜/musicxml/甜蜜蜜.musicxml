@@ -16,7 +16,7 @@
 			<supports attribute='new-page' element='print' type='yes' value='yes'/>
 			<supports attribute='new-system' element='print' type='yes' value='yes'/>
 		</encoding>
-		<source>Based on 《热门金曲总谱全集：电声乐队配器总谱：女歌专辑》，published by 华艺出版社 in 2004.</source>
+		<source>Based on 《热门金曲总谱全集：电声乐队配器总谱：女歌专辑》，published by 华艺出版社 in 2004, transcribed based on the song "甜蜜蜜" by Teresa Teng (邓丽君) from the album "难忘的一天" released in 1979.</source>
 		<relation>urn:ISBN:7-80142-621-5</relation>
 	</identification>
 	<part-list>
