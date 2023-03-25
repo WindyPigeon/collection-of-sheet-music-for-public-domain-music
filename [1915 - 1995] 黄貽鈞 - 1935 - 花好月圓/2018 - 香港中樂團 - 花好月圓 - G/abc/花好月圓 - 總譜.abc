@@ -1,12 +1,13 @@
 X:1
 T:花好月圓
 C:黃貽鈞
+O:China
 F:https://www.hkco.org/uploads/docs/5a8b92eb12d681.pdf
-%%score [ 1 2 ] [ 3 4 ] 5 { 6 | 7 } [ 8 9 10 11 12 ] ( 13 14 ) [ 15 16 ] 17 [ 18 19 20 21 22 ]
-L:1/8
-Q:1/4=156
 M:4/4
+L:1/8
 K:G
+Q:1/4=156
+%%score [ 1 2 ] [ 3 4 ] 5 { 6 | 7 } [ 8 9 10 11 12 ] ( 13 14 ) [ 15 16 ] 17 [ 18 19 20 21 22 ]
 V:1 treble+8 nm="短笛" snm="短笛"
 %%MIDI program 72
 V:2 treble nm="長笛" snm="長笛"
@@ -60,7 +61,7 @@ V:21 bass nm="革胡" snm="革胡"
 V:22 bass nm="低音革胡" snm="低音革胡"
 %%MIDI program 42
 %
-[V:1] [Q:"Allegro con Brio (M.M." 1/4 = 156 ")"] !ff!!>!d'3 e' d'e'd'e' | !>!d'3 e' d'e'd'e' | !/!d'!/!e'!/!g'!/!e' !/!d'!/!b!/!a!/!b |: g z z2 z2 (D/E/G/B/) |(!mf!d2"_dolce" d2 BdBA | GABd A4) | !
+[V:1] [Q:"Allegro con Brio (M.M." 1/4 = 156 ")"] !ff!!>!d'3 e' d'e'd'e' | !>!d'3 e' d'e'd'e' | !/!d'!/!e'!/!g'!/!e' !/!d'!/!b!/!a!/!b |: g z z2 z2 (D/E/G/B/) |(!mf!d2 "_dolce"d2 BdBA | GABd A4) | !
 [V:2] !ff!!>!d3 e dede | !>!d3 e dede | !/!d!/!e!/!g!/!e !/!d!/!B!/!A!/!B |: G z z2 z4 | z8 | z8 | !
 [V:3] !ff!!>![B,DG][B,DG]/[B,DG]/ [B,DG][B,DG] [B,DG][B,DG][B,DG][B,DG] | !>![B,DG][B,DG]/[B,DG]/ [B,DG][B,DG] [B,DG][B,DG][B,DG][B,DG] | [B,DG][B,DG]/[B,DG]/ [B,DG][B,DG]/[B,DG]/ [B,DG][B,DG]/[B,DG]/ [DFA][DFA]/[DFA]/ |: [B,DG] z z2 z4 | z8 | z8 | !
 [V:4] !ff!!>![G,B,D][G,B,D]/[G,B,D]/ [G,B,D][G,B,D] [G,B,D][G,B,D][G,B,D][G,B,D] | !>![G,B,D][G,B,D]/[G,B,D]/ [G,B,D][G,B,D] [G,B,D][G,B,D][G,B,D][G,B,D] | [G,B,D][G,B,D]/[G,B,D]/ [G,B,D][G,B,D]/[G,B,D]/ [G,B,D][G,B,D]/[G,B,D]/ [F,A,D][F,A,D]/[F,A,D]/ |: [G,B,D] z z2 z4 | (!mf!G,8 | D8) | !
@@ -72,13 +73,13 @@ V:22 bass nm="低音革胡" snm="低音革胡"
 [V:10] !ff!!>![G,B,][G,B,]/[G,B,]/ [G,B,][G,B,] [G,B,][G,B,][G,B,][G,B,] | !>![G,B,][G,B,]/[G,B,]/ [G,B,][G,B,] [G,B,][G,B,][G,B,][G,B,] | [G,B,][G,B,]/[G,B,]/ [G,B,][G,B,]/[G,B,]/ [G,B,][G,B,]/[G,B,]/ [G,B,][G,B,]/[G,B,]/ |: [G,B,]!>(![G,B,]z[G,B,] z [G,B,]z[G,B,]!>)! | z !mp![G,B,]z[G,B,] z [G,B,]z[G,B,] | z [G,B,]z[G,B,] z [G,B,]z[G,B,] | !
 [V:11] !ff!!>![G,,D,G,]4 [G,,D,]2 [G,,D,]2 | !>![G,,D,G,]4 [G,,D,]2 [G,,D,]2 | [G,,D,G,]2 z2 z2 D,2 |: G,2 z2 z4 | z8 | z8 | !
 [V:12] !ff!!>![G,,D,]4 [G,,D,]2 [G,,D,]2 | !>![G,,D,]4 [G,,D,]2 [G,,D,]2 | [G,,D,]2 z2 z2 D,2 |: !>(!G,2 D,2 G,2 D,2!>)! | !mp!G,2 D,2 B,,2 D,2 | G,2 D,2 F,2 D,2 | !
-[V:13] Fe/e/ ee eeee | Fe/e/ ee eeee | Fe/e/ Fe/e/ Fe/e/ Fe/e/ |: z8 | z8 | z8 | !
+[V:13] Fe/e/ ee eeee | Fe/e/ ee eeee | Fe/e/ Fe/e/ Fe/e/ Fe/e/ |: F2 z2 z4 | z8 | z8 | !
 [V:14] X | X | X | X | X | X | !
 [V:15] !f!!///!B4 B2 B2 | !///!B4 B2 B2 | !///!B8 |: B2 z2 z4 | z8 | z8 | !
 [V:16]!f! B8 | B8 | B8 |: B2 z2 z4 | z8 | z8 | !
 [V:17] !f!!>!G,,4 G,,2 G,,2 | !>!G,,4 G,,2 G,,2 | G,,2 z2 z2 D,2 |: G,,2 z2 z4 | z8 | z8 | !
 [V:18] !ff!!>!d3 e dede | !>!d3 e dede | dege dBAB |: G z z2 z4 | z8 | z8 | !
-[V:19] !ff!!>!B3 c BcBc | !>!B3 c BcBc | Bcec BGFD |: G z z2 z4 | z8 | z8 | !
+[V:19] !ff!!>!B3 c BcBc | !>!B3 c BcBc | !/!B!/!c!/!e!/!c !/!B!/!G!/!F!/!D |: G z z2 z4 | z8 | z8 | !
 [V:20] !ff!!>![B,D][B,D]/[B,D]/ [B,D][B,D] [B,D][B,D][B,D][B,D] | !>![B,D][B,D]/[B,D]/ [B,D][B,D] [B,D][B,D][B,D][B,D] | [B,D][B,D]/[B,D]/ [B,D][B,D]/[B,D]/ [B,D][B,D]/[B,D]/ [A,D][A,D]/[A,D]/ |: !>(![B,D][B,D]z[B,D] z [B,D]z[B,D]!>)! | z !mp![B,D]z[B,D] z [B,D]z[B,D] | z [B,D]z[B,D] z [A,D]z[A,D] | !
 [V:21] !ff!!>![G,,D,]4 [G,,D,]2 [G,,D,]2 | !>![G,,D,]4 [G,,D,]2 [G,,D,]2 | [G,,D,]2 z2 z2"^pizz." D,2 |: !>(!G,2 D,2 G,2 D,2!>)! |!mp! G,2 D,2 B,,2 D,2 | G,2 D,2 B,,2 D,2 | !
 [V:22] !ff!!>!G,,4 G,,2 G,,2 | !>!G,,4 G,,2 G,,2 | G,,2 z2 z2 "^pizz." D,2 |: !>(!G,2 D,2 G,2 D,2!>)! | !mp!G,2 D,2 B,,2 D,2 | G,2 D,2 B,,2 D,2 | !
@@ -125,18 +126,18 @@ V:22 bass nm="低音革胡" snm="低音革胡"
 [V:15] z8 | z8 | z8 | z8 | z8 | z8 | !
 [V:16] z8 | z8 | z8 | z8 | z8 | z8 | !
 [V:17] z8 | z8 | z8 | z8 | z8 | z8 | !
-[V:18] "_dolce" !f!d'2 d'2 (bd')(ba) | (ga)(bd') a4 | d2 (de) g2 b2 | (ab)(ag) e4 | (eg)(ab) (ga)(ge) | d2 (BA) d4 | !
-[V:19] "_dolce" !f!d2 d2 (Bd)(BA) | (GA)(Bd) A4 | d2 (de) g2 b2 | (ab)(ag) e4 | (eg)(ab) (ga)(ge) | d2 (BA) d4 | !
-[V:20] "_dolce" !mp!G,6 (B,D) | !<(!G6 !<)!!mf!D2 | (B,3 D) (EG)(AB) | !>(!D4 C4!>)! | (A,3 B,) !<(!^C2 (DE!<)!) | (F4 F)!f!(GAB) | !
-[V:21] "^arco" "_dolce" !mp!G,,6 (B,,D,) | !<(!G,6 !<)!!mf!D,2 | (B,3 D) (E,G,)(A,B,) | !>(!D,4 C,4!>)! | (A,,3 B,,) !<(!^C,2 (D,E,!<)!) | (F,4 F,)!f!(G,A,B,) | !
+[V:18] !f!d'2 "_dolce"d'2 (bd')(ba) | (ga)(bd') a4 | d2 (de) g2 b2 | (ab)(ag) e4 | (eg)(ab) (ga)(ge) | d2 (BA) d4 | !
+[V:19] !f!d2 "_dolce"d2 (Bd)(BA) | (GA)(Bd) A4 | d2 (de) g2 b2 | (ab)(ag) e4 | (eg)(ab) (ga)(ge) | d2 (BA) d4 | !
+[V:20] !mp!G,6 "_dolce" (B,D) | !<(!G6 !<)!!mf!D2 | (B,3 D) (EG)(AB) | !>(!D4 C4!>)! | (A,3 B,) !<(!^C2 (DE)!<)! | (F4 F)!f!(GAB) | !
+[V:21] "^arco"!mp!G,,6  "_dolce" (B,,D,) | !<(!G,6 !<)!!mf!D,2 | (B,3 D) (E,G,)(A,B,) | !>(!D,4 C,4!>)! | (A,,3 B,,) !<(!^C,2 (D,E,)!<)! | (F,4 F,)!f!(G,A,B,) | !
 [V:22] G,2 D,2 B,,2 D,2 | G,2 D,2 F,2 D,2 | G,2 D,2 B,,2 D,2 | G,2 D,2 C,2 E,2 | A,2 E,2 ^C,2 A,,2 | D,2 A,2 F,2 D,2 | !
 [I:newpage]
 % 19
 [V:1] (B2 d2 egab) | !f!!>!g2 !>!d'2 !>!g'2 z2 | z8 | z8 | z8 | z8 | !
 [V:2] (B,2 D2 EGAB) | !f!!>!G2 !>!d2 !>!g2 z2 | z8 | z8 | z8 | z8 | !
-[V:3] (B2 d2 egab) | !f!!>![Bdg]2 !>![GBd]2 !>![Bdg]2 z2 | !mp![DG]6 [DG]2 | [EA]6 [EA]2 | (!mf!A4 G4 | !>(!E4 D4!>)!) | !
-[V:4] z [G,B,D]z[G,B,D] z [A,^CE]z[A,CE] | !f! !>![B,DG]2 !>![G,B,D]2 !>![B,DG]2 z2 | !mp!B,6 D2 | ^C6 C2 | (!mf!_E4 D4 | !>(!C4 B,4!>)!) | !
-[V:5] (D4) D)(B,A,E,) | !f!!>!G,2 !>!D,2 !>!G,2 z2 | !mp!G,6 G,2 | A,6 A,2 | (!mf!A,4 G,4 | !>(!E,4 D,4!>)!) | !
+[V:3] (B2 d2 egab) | !f!!>![Bdg]2 !>![GBd]2 !>![Bdg]2 z2 | !mp![DG]6 [DG]2 | [EA]6 [EA]2 | (!mf!A4 G4 | !>(!E4 D4)!>)! | !
+[V:4] z [G,B,D]z[G,B,D] z [A,^CE]z[A,CE] | !f! !>![B,DG]2 !>![G,B,D]2 !>![B,DG]2 z2 | !mp!B,6 D2 | ^C6 C2 | (!mf!_E4 D4 | !>(!C4 B,4)!>)! | !
+[V:5] (D4) D)(B,A,E,) | !f!!>!G,2 !>!D,2 !>!G,2 z2 | !mp!G,6 G,2 | A,6 A,2 | (!mf!A,4 G,4 | !>(!E,4 D,4)!>)! | !
 [V:6] z8 | z8 | !mf!GG/A/ Bd GB A2 | !<(!AA/B/ de gb a2!<)! | !f!ab a/b/a/g/ eg d2 | !>(!ce/g/ dc BA B2!>)! | !
 [V:7] z8 | z8 | z8 | z8 | z8 | z8 | !
 [V:8] z8 | z8 | !mf!GG/A/ Bd GB A2 | !<(!AA/B/ de gb a2!<)! | !f!ab a/b/a/g/ eg d2 | !>(!ce/g/ dc BA B2!>)! | !
@@ -173,8 +174,8 @@ V:22 bass nm="低音革胡" snm="低音革胡"
 [V:15] BBzB z BzB | z BzB z BzB | z BzB z BzB | !f!B2 B2 B2 z2 | z8 | z !mp!BzB z !mf!B/B/ BB | !
 [V:16] z8 | z8 | z8 | z8 | z8 | z8 | !
 [V:17] z8 | z8 | z8 | z8 | z8 | z8 | !
-[V:18] !mf!GG/A/ B!<(!d (gb) a2!<)! | !f!(ab) (a/b/a/g/) (eg) d2 | (Bd)(gb) (a/b/a/g/) e2 | !f! d(e/g/) d(c/A/) G2 (g2 | !>(!g) =f2 e!>)! (!<(!de)(cA!<)!) | z !mp!GzG z !mf!d/d/ dd | !
-[V:19] !mf!GG/A/ B!<(!d (gb) a2!<)! | !f!(ab) (a/b/a/g/) (eg) d2 | (Bd)(gb) (a/b/a/g/) e2 | !f! c(e/g/) d(c/A/) G2 (g2 | !>(!g) =f2 e!>)! (!<(!de)(cA!<)!) | z !mp!EzE z !mf![GB]/[GB]/ [GB][GB] | !
+[V:18] !mf!GG/A/ B!<(!d (gb) a2!<)! | !f!(ab) (a/b/a/g/) (eg) d2 | (Bd)(gb) (a/b/a/g/) e2 | !f! d(e/g/) d(c/A/) G2 (g2 | !>(!g) =f2 e!>)! (!<(!de)(cA)!<)! | z !mp!GzG z !mf!d/d/ dd | !
+[V:19] !mf!GG/A/ B!<(!d (gb) a2!<)! | !f!(ab) (a/b/a/g/) (eg) d2 | (Bd)(gb) (a/b/a/g/) e2 | !f! c(e/g/) d(c/A/) G2 (g2 | !>(!g) =f2 e!>)! (!<(!de)(cA)!<)! | z !mp!EzE z !mf![GB]/[GB]/ [GB][GB] | !
 [V:20] !mf!D4 ^C4 | !courtesy!=C4 B,4 | G,4 B,4 | !f!!tenuto![CE]2 !tenuto![A,F]2 !tenuto![B,G]2 z2 | z8 | !f! CCCD (EG) D2 | !
 [V:21] !mf!D4 ^C4 | !courtesy!=C4 B,4 | G,4 B,4 | !f!!tenuto!C,2 !tenuto!D,2 !tenuto!G,,2 z2 | z8 | !f!C,C,C,D, (E,G,) D,2 | !
 [V:22] !mp!G,,2 z2 z2 A,2 | !mp!F,2 z2 z2 G,2 | G,,2 z2 z2 B,,2 | "^arco" !f!!tenuto!C,2 !tenuto!D,2 !tenuto!G,,2 z2 | z8 | !f!C,C,C,D, (E,G,) D,2 | !
@@ -198,7 +199,7 @@ V:22 bass nm="低音革胡" snm="低音革胡"
 [V:16] z8 | z8 | z8 | z8 | z8 | z8 | !
 [V:17] z8 | z8 | z8 | z8 | z8 | z8 | !
 [V:18] z !mp!GzG z !mf!d/d/ dd | z AzA z e/e/ ee | z GzG z c/c/ cc | z GzG z e/e/ ee | z GzG z c/c/ cc | z GzG z e/e/ ee | !
-[V:19] z !mp!EzE z !mf![GB]/[GB]/ [GB][GB] | z !mp!EzE z [Ac]/[Ac]/ [Ac][Ac] | z DzD z [EA]/[EA]/ [EA][EA] | z DzD z [Gc]/[Gc]/ [Gc][Gc] | z DzD z [EA]/[EA]/ [EA][EA] | z DzD z [Gc]/[Gc]/ [Gc][Gc] | !
+[V:19] z !mp!EzE z !mf![GB]/[GB]/ [GB][GB] | z EzE z [Ac]/[Ac]/ [Ac][Ac] | z DzD z [EA]/[EA]/ [EA][EA] | z DzD z [Gc]/[Gc]/ [Gc][Gc] | z DzD z [EA]/[EA]/ [EA][EA] | z DzD z [Gc]/[Gc]/ [Gc][Gc] | !
 [V:20] GBAG (EG) D2 | CA,CD (EG) E2 | DECB, (A,C) A,2 | G,G,G,A, (CD) E2 | DGED (CE) A,2 | G,G,G,A, (CD) E2 | !
 [V:21] G,B,A,G, (E,G,) D,2 | C,A,,C,D, (E,G,) E,2 | D,E,C,B,, (A,,C,) A,,2 | G,,G,,G,,A,, (C,D,) E,2 | D,G,E,D, (C,E,) A,,2 | G,,G,,G,,A,, (C,D,) E,2 | !
 [V:22] G,B,A,G, (E,G,) D,2 | C,A,,C,D, (E,G,) E,2 | D,E,C,B,, (A,,C,) A,,2 | G,,G,,G,,A,, (C,D,) E,2 | D,G,E,D, (C,E,) A,,2 | G,,G,,G,,A,, (C,D,) E,2 | !
@@ -238,7 +239,7 @@ V:22 bass nm="低音革胡" snm="低音革胡"
 [V:9] z8 | z8 | z8 | z8 | !
 [V:10] z !p![G,B,]z[G,B,] z [G,B,]z[G,B,] | z [G,B,]z[G,B,] z [G,B,]z[G,C] | z [G,C]z[G,C] z [G,B,]z[G,B,] | z [G,B,]z[E,A,] z [F,A,]z[F,A,] | !
 [V:11] z8 | z8 | z8 | z8 | !
-[V:12] !p!G,,2 D,,2 G,,2 D,,2 | G,,2 D,,2 G,,2 C,,2 | B,,2 G,,2 A,,2 E,,2 | G,,2 A,,2 D,,D,D,D, | !
+[V:12] !p!G,,2 D,,2 G,,2 D,,2 | G,,2 D,,2 G,,2 C,,2 | c,,2 G,,2 A,,2 D,,2 | G,,2 A,,2 D,,D,D,D, | !
 [V:13] z8 | z8 | z8 | z8 | !
 [V:14] X | X | X | X | !
 [V:15] z8 | z8 | z8 | z8 | !
@@ -247,7 +248,7 @@ V:22 bass nm="低音革胡" snm="低音革胡"
 [V:18] !p!d/d/d/d/ B/d/B/A/ G/A/B/d/ A/A/A/A/ | d/d/d/e/ gb a/b/a/g/ e2 | e/g/a/b/ g/a/g/e/ d/e/B/A/ d2 | !/!B!/!d e/g/a/b/ !//!d2 d/e/c/A/ | !
 [V:19] z8 | z8 | z8 | z8 | !
 [V:20] z !p![B,D]z[B,D] z [B,D]z[A,D] | z [B,D]z[B,D] z [B,D]z[CE] | z [B,E]z[B,E] z [A,D]z[A,D] | z [B,D]z[^CE] z [A,D]z[A,D] | !
-[V:21] "^pizz." !p!G,,2 D,,2 G,,2 D,,2 | G,,2 D,,2 G,,2 C,,2 | B,,2 G,,2 A,,2 E,,2 | G,,2 A,,2 D,,"^arco" D,D,D, | !
+[V:21] "^pizz." !p!G,,2 D,,2 G,,2 D,,2 | G,,2 D,,2 G,,2 C,,2 | c,,2 G,,2 A,,2 D,,2 | G,,2 A,,2 D,,"^arco" D,D,D, | !
 [V:22] z8 | z8 | z8 | z8 | !
 [I:newpage]
 % 45
@@ -287,7 +288,7 @@ V:22 bass nm="低音革胡" snm="低音革胡"
 [V:10] !f![B,G][B,G][B,G][B,G] [B,G][B,G][B,G][B,G] | [B,G][B,G][B,G][B,G] [B,G][B,G][B,G][B,G] | [CG][CG][CG][CG] [CG][CG][CG][CG] | !ff![B,G]2 [B,G]2 [CG]2 [A,F]2 | !///!!fermata![DG]4 !>![B,G]!>![B,G] z2 |]
 [V:11] !f!G,D,G,D, G,D,A,D, | G,D,G,D, G,D,A,D, | G,E,G,E, G,D,G,D, | !ff!G,2 D,2 C,2 D,2 | !///!!fermata!G,,4 !>!G,,!>!G,, z2 |]
 [V:12] !f!G,D,G,D, G,D,A,D, | G,D,G,D, G,D,A,D, | G,E,G,E, G,D,G,D, | !ff!G,2 D,2 C,2 D,2 | !///!!fermata!G,,4 !>!G,,!>!G,, z2 |]
-[V:13] e/e/F/F/ e/e/F/F/ e/e/F/F/ e/e/F/F/ | e/e/F/F/ e/e/F/F/ e/e/F/F/ e/e/F/F/ | e/e/F/F/ e/e/F/F/ e/e/F/F/ e/e/F/F/ | e2 F2 eeee | !fermata!F4 !>!e!>!e z2 |]
+[V:13] !f!e/e/F/F/ e/e/F/F/ e/e/F/F/ e/e/F/F/ | e/e/F/F/ e/e/F/F/ e/e/F/F/ e/e/F/F/ | e/e/F/F/ e/e/F/F/ e/e/F/F/ e/e/F/F/ | e2 F2 eeee | !fermata!F4 !>!e!>!e z2 |]
 [V:15] !f!!///!B4 !///!B4 | !///!B4 !///!B4 | !///!B4 !///!B4 | B2 B2 B2 B2 | !///!!fermata!B4 !>!B!>!B z2 |]
 [V:16] !f!B4 B4 | B4 B4 | B4 B4 | B2 B2 B2 B2 | !fermata!B4 !>!B!>!B z2 |]
 [V:17] !mf!G,,G,,G,,G,, G,,G,,D,D, | G,,G,,G,,G,, G,,G,,C,C, | C,C,C,C, D,D,D,D, | !f! G,,2 D,2 C,2 D,2 | !///!!fermata!G,,4 !>!G,,!>!G,, z2 |]
