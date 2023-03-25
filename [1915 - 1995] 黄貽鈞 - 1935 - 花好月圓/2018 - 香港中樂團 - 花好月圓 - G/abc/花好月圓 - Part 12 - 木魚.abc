@@ -1,0 +1,27 @@
+X:1
+T:花好月圓
+G:木魚
+C:黃貽鈞
+O:China
+F:https://www.hkco.org/uploads/docs/5a8b93872c0ae1.pdf
+M:4/4
+L:1/8
+K:none
+V:1 perc 
+%%MIDI drummap e 77
+%%MIDI drummap F 76
+%%MIDI channel 10
+%
+[Q:"Allegro con Brio (M.M." 1/4 = 156 ")"] Fe/e/ ee eeee | Fe/e/ ee eeee | Fe/e/ Fe/e/ Fe/e/ Fe/e/ | !
+% 4
+|: F2 z2 z4 | Z25 | [Q:"Moderato"] !mf!FeFe!f! Fe/e/ ee | !
+% 31
+!mf!FeFe !f!Fe/e/ ee | FeFe Fe/e/ ee | FeFe Fe/e/ ee | !
+% 34
+FeFe Fe/e/ ee | FeFe Fe/e/ ee | FeFe Fe/e/ ee | !
+% 37
+|1 FeFe Fe/e/ ee | [Fe]2 z2 z4 | [M:2/4] z4 :| !
+% 40
+|2 [M:4/4] FeFe F z !>![Fe]2 | Z8 | !f!e/e/F/F/ e/e/F/F/ e/e/F/F/ e/e/F/F/ | e/e/F/F/ e/e/F/F/ e/e/F/F/ e/e/F/F/ | !
+% 51
+e/e/F/F/ e/e/F/F/ e/e/F/F/ e/e/F/F/ | e2 F2 eeee | !fermata!F4 !>!e!>!e z2 |]

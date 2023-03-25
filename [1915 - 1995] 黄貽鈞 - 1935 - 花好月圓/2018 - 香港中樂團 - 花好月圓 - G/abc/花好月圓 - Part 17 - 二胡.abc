@@ -1,0 +1,41 @@
+X:1
+T:花好月圓
+C:黃貽鈞
+O:China
+F:https://www.hkco.org/uploads/docs/5a8b93f5536641.pdf
+G:二胡
+M:4/4
+L:1/8
+K:G
+V:1 treble
+%%MIDI program 40
+%
+[Q:"Allegro con Brio (M.M." 1/4 = 156 ")"] !ff!!>!B3 c BcBc | !>!B3 c BcBc | !/!B!/!c!/!e!/!c !/!B!/!G!/!F!/!D | !
+% 4
+|: G z z2 z4 | Z7 | !sfz!d6 D/E/G/B/ | !f!d2 "_dolce"d2 (Bd)(BA) | !
+% 14
+(GA)(Bd) A4 | d2 (de) g2 b2 | (ab)(ag) e4 | (eg)(ab) (ga)(ge) | !
+% 18
+d2 (BA) d4 | B2 d2 (eg)(ab) | !f! !>!g2 !>!d2 !>!g2 z2 | !
+% 21
+z !mp!BzB z BzB | z AzA z AzA | z !mf!AzA z AzA | !
+% 24
+z !>(! GzG z FzF!>)! | !mf!GG/A/ B!<(!d (gb) a2!<)! | !f!(ab) (a/b/a/g/) (eg) d2 | !
+% 27
+(Bd)(gb) (a/b/a/g/) e2 | !f! c(e/g/) d(c/A/) G2 (g2 | !>(!g) =f2 e!>)! (!<(!de)(cA)!<)! | !
+% 30
+[Q:"Moderato"]  z !mp!EzE z !mf![GB]/[GB]/ [GB][GB] | z !mp!EzE z !mf![GB]/[GB]/ [GB][GB] | z EzE z [Ac]/[Ac]/ [Ac][Ac] | z DzD z [EA]/[EA]/ [EA][EA] | !
+[I:newpage]
+% 34
+z DzD z [Gc]/[Gc]/ [Gc][Gc] | z DzD z [EA]/[EA]/ [EA][EA] | z DzD z [Gc]/[Gc]/ [Gc][Gc] | !
+% 37
+|1 z GzF G!f![Bd]/[Bd]/ [Bd][Bd] | !ff!!>![Bd]>[ce] [Bd]/[ce]/[Bd]/[ce]/ !>![Bd]>[ce] [Bd]/[ce]/[Bd]/[ce]/ | [M:2/4] !>!B/c/d/c/ B/G/F/D/ :| !
+% 40
+|2 [M:4/4] z GzF G z !f!!>![Bd]2 | Z4 | !mf!!//!d2 B/d/B/A/ G/A/B/d/ !//!A2 | !
+% 46
+d/d/d/e/ !/!g!/!b a/b/a/g/ !//!e2 | e/g/a/b/ g/a/g/e/ d/e/B/A/ !//!e2 | !/!B!/!d e/g/a/b/ dddd | !
+% 49
+!f!!//!d2 B/d/B/A/ G/A/B/d/ !//!A2 | d/d/d/e/ !/!g!/!b a/b/a/g/ !//!e2 | !
+% 51
+e/g/a/b/ g/a/g/e/ d/e/B/A/ !//!d2 | !ff!B2 d2 EGAB | !fermata![Bd]4 !>![Bd]!>![Bd] z2 |]
+
