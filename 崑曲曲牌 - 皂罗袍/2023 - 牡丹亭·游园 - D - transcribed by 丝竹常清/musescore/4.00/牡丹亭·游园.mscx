@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="4.00">
-  <programVersion>4.0.2</programVersion>
-  <programRevision>dbe7c6d</programRevision>
   <Score>
-    <LayerTag id="0" tag="default"></LayerTag>
-    <currentLayer>0</currentLayer>
-    <Division>480</Division>
-    <showInvisible>1</showInvisible>
-    <showUnprintable>1</showUnprintable>
-    <showFrames>1</showFrames>
-    <showMargins>0</showMargins>
-    <open>1</open>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composer"></metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate"></metaTag>
-    <metaTag name="lyricist"></metaTag>
+    <metaTag name="lyricist">汤显祖</metaTag>
     <metaTag name="platform"></metaTag>
     <metaTag name="source">https://www.sooopu.com/Jipu/info.asp?id=2555601</metaTag>
     <metaTag name="subtitle"></metaTag>
@@ -26,65 +16,7 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
         </StaffType>
-        <bracket type="1" span="2" col="2" />
-        <barLineSpan>1</barLineSpan>
       </Staff>
-      <trackName>Piano</trackName>
-      <Instrument id="piano">
-        <longName>Piano</longName>
-        <shortName>Pno.</shortName>
-        <trackName>Piano</trackName>
-        <minPitchP>21</minPitchP>
-        <maxPitchP>108</maxPitchP>
-        <minPitchA>21</minPitchA>
-        <maxPitchA>108</maxPitchA>
-        <instrumentId>keyboard.piano</instrumentId>
-        <clef staff="2">F</clef>
-        <Articulation>
-          <velocity>100</velocity>
-          <gateTime>95</gateTime>
-        </Articulation>
-        <Articulation name="staccatissimo">
-          <velocity>100</velocity>
-          <gateTime>33</gateTime>
-        </Articulation>
-        <Articulation name="staccato">
-          <velocity>100</velocity>
-          <gateTime>50</gateTime>
-        </Articulation>
-        <Articulation name="portato">
-          <velocity>100</velocity>
-          <gateTime>67</gateTime>
-        </Articulation>
-        <Articulation name="tenuto">
-          <velocity>100</velocity>
-          <gateTime>100</gateTime>
-        </Articulation>
-        <Articulation name="marcato">
-          <velocity>120</velocity>
-          <gateTime>67</gateTime>
-        </Articulation>
-        <Articulation name="sforzato">
-          <velocity>150</velocity>
-          <gateTime>100</gateTime>
-        </Articulation>
-        <Articulation name="sforzatoStaccato">
-          <velocity>150</velocity>
-          <gateTime>50</gateTime>
-        </Articulation>
-        <Articulation name="marcatoStaccato">
-          <velocity>120</velocity>
-          <gateTime>50</gateTime>
-        </Articulation>
-        <Articulation name="marcatoTenuto">
-          <velocity>120</velocity>
-          <gateTime>100</gateTime>
-        </Articulation>
-        <Channel>
-          <program value="0" />
-          <synti>Fluid</synti>
-        </Channel>
-      </Instrument>
     </Part>
     <Staff id="1">
       <VBox>
@@ -106,15 +38,6 @@
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
-            <Groups>
-              <Node pos="4" action="512" />
-              <Node pos="8" action="273" />
-              <Node pos="12" action="512" />
-              <Node pos="16" action="273" />
-              <Node pos="20" action="512" />
-              <Node pos="24" action="273" />
-              <Node pos="28" action="512" />
-            </Groups>
           </TimeSig>
           <RehearsalMark>
             <frameType>0</frameType>
@@ -136,8 +59,7 @@
               <text>来</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/4</fractions>
@@ -192,8 +114,7 @@
               <text>姹</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <grace>0</grace>
@@ -201,8 +122,7 @@
               </next>
             </Spanner>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/8</fractions>
@@ -252,8 +172,7 @@
               <text>紫</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/2</fractions>
@@ -308,8 +227,7 @@
               <text>红</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/4</fractions>
@@ -358,8 +276,7 @@
               <text>开</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -416,8 +333,7 @@
               <text>遍，</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <grace>0</grace>
@@ -425,8 +341,7 @@
               </next>
             </Spanner>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <measures>1</measures>
@@ -459,8 +374,7 @@
             <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                </Tie>
+                <Tie/>
                 <next>
                   <location>
                     <measures>1</measures>
@@ -507,8 +421,7 @@
               <text>似</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -547,8 +460,7 @@
               <text>这</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/16</fractions>
@@ -618,8 +530,7 @@
               <text>付</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <grace>0</grace>
@@ -644,8 +555,7 @@
               <text>与</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/2</fractions>
@@ -698,8 +608,7 @@
               <text>断</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>7/16</fractions>
@@ -774,8 +683,7 @@
             <durationType>quarter</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                </Tie>
+                <Tie/>
                 <next>
                   <location>
                     <measures>1</measures>
@@ -826,8 +734,7 @@
               <text>颓</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>11/16</fractions>
@@ -850,8 +757,7 @@
             <durationType>eighth</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                </Tie>
+                <Tie/>
                 <next>
                   <location>
                     <fractions>1/8</fractions>
@@ -928,8 +834,7 @@
               <text>垣。</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/4</fractions>
@@ -989,8 +894,7 @@
               <text>美</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>7/16</fractions>
@@ -1061,8 +965,7 @@
               <text>景</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/8</fractions>
@@ -1132,8 +1035,7 @@
               <text>奈</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <grace>0</grace>
@@ -1151,8 +1053,7 @@
               <text>何</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/2</fractions>
@@ -1232,8 +1133,7 @@
               <text>赏</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -1283,8 +1183,7 @@
               <text>乐</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>7/16</fractions>
@@ -1344,8 +1243,7 @@
               <text>事</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <grace>0</grace>
@@ -1353,8 +1251,7 @@
               </next>
             </Spanner>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>7/16</fractions>
@@ -1434,8 +1331,7 @@
               <text>谁</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -1481,8 +1377,7 @@
               <text>家</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>5/8</fractions>
@@ -1551,8 +1446,7 @@
               <text>院？</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/2</fractions>
@@ -1615,8 +1509,7 @@
               <text>飞</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/8</fractions>
@@ -1680,8 +1573,7 @@
               <text>暮</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <grace>0</grace>
@@ -1689,8 +1581,7 @@
               </next>
             </Spanner>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/8</fractions>
@@ -1730,8 +1621,7 @@
               <text>卷，</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>7/8</fractions>
@@ -1786,8 +1676,7 @@
               <text>云</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -1833,8 +1722,7 @@
               <text>霞</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/8</fractions>
@@ -1884,8 +1772,7 @@
               <text>翠</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -1945,8 +1832,7 @@
               <text>轩，</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/2</fractions>
@@ -2009,8 +1895,7 @@
               <text>雨</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/8</fractions>
@@ -2042,8 +1927,7 @@
               <text>丝</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/4</fractions>
@@ -2106,8 +1990,7 @@
               <text>片，</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <grace>0</grace>
@@ -2115,8 +1998,7 @@
               </next>
             </Spanner>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/2</fractions>
@@ -2176,8 +2058,7 @@
               <text>烟</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>5/8</fractions>
@@ -2237,8 +2118,7 @@
               <text>画</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <grace>0</grace>
@@ -2246,8 +2126,7 @@
               </next>
             </Spanner>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/8</fractions>
@@ -2300,8 +2179,7 @@
               <text>锦</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -2357,8 +2235,7 @@
               <text>人</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/8</fractions>
@@ -2393,8 +2270,7 @@
               <text>忒</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/16</fractions>
@@ -2431,8 +2307,7 @@
               <text>看</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/8</fractions>
@@ -2485,8 +2360,7 @@
               <text>的</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/4</fractions>
@@ -2535,8 +2409,7 @@
               <text>这</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/16</fractions>
@@ -2573,8 +2446,7 @@
               <text>韶</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -2620,8 +2492,7 @@
               <text>光</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>5/8</fractions>
@@ -2689,8 +2560,7 @@
               <text>贱!</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/4</fractions>
@@ -2760,8 +2630,7 @@
               <text>遍</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <grace>0</grace>
@@ -2783,8 +2652,7 @@
               <text>青</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>7/16</fractions>
@@ -2838,8 +2706,7 @@
               <text>山，</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <measures>1</measures>
@@ -2873,8 +2740,7 @@
             <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                </Tie>
+                <Tie/>
                 <next>
                   <location>
                     <measures>1</measures>
@@ -2889,6 +2755,9 @@
         </voice>
       </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+        </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -2941,8 +2810,7 @@
               <text>了</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>5/16</fractions>
@@ -2951,8 +2819,7 @@
             </Spanner>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                </Tie>
+                <Tie/>
                 <next>
                   <location>
                     <fractions>1/8</fractions>
@@ -3016,8 +2883,7 @@
               <text>杜</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>7/16</fractions>
@@ -3077,8 +2943,7 @@
               <text>鹃，</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <measures>1</measures>
@@ -3115,8 +2980,7 @@
             <durationType>quarter</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                </Tie>
+                <Tie/>
                 <next>
                   <location>
                     <measures>1</measures>
@@ -3136,8 +3000,7 @@
             <durationType>quarter</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                </Tie>
+                <Tie/>
                 <next>
                   <location>
                     <fractions>1/4</fractions>
@@ -3202,8 +3065,7 @@
               <text>那</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/16</fractions>
@@ -3236,8 +3098,7 @@
               <text>荼</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/8</fractions>
@@ -3279,8 +3140,7 @@
               <text>䕷</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>7/16</fractions>
@@ -3324,8 +3184,7 @@
               <text>外</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>7/16</fractions>
@@ -3382,8 +3241,7 @@
               <text>烟</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>7/8</fractions>
@@ -3402,8 +3260,7 @@
             </Lyrics>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                </Tie>
+                <Tie/>
                 <next>
                   <location>
                     <fractions>1/4</fractions>
@@ -3491,8 +3348,7 @@
               <text>醉</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>7/8</fractions>
@@ -3588,8 +3444,7 @@
               <text>软，</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>5/16</fractions>
@@ -3598,8 +3453,7 @@
             </Spanner>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                </Tie>
+                <Tie/>
                 <next>
                   <location>
                     <fractions>1/4</fractions>
@@ -3644,8 +3498,7 @@
               <text>那</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/16</fractions>
@@ -3678,8 +3531,7 @@
               <text>牡</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -3725,8 +3577,7 @@
               <text>丹</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/8</fractions>
@@ -3768,8 +3619,7 @@
               <text>虽</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -3822,8 +3672,7 @@
               <text>好，</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/8</fractions>
@@ -3892,8 +3741,7 @@
               <text>怎</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -3944,8 +3792,7 @@
               <text>占</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/8</fractions>
@@ -3998,8 +3845,7 @@
               <text>的</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -4046,8 +3892,7 @@
               <text>光？</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/2</fractions>
@@ -4093,8 +3938,7 @@
               <text>闲</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <measures>1</measures>
@@ -4126,8 +3970,7 @@
             <durationType>eighth</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                </Tie>
+                <Tie/>
                 <next>
                   <location>
                     <measures>1</measures>
@@ -4207,8 +4050,7 @@
               <text>凝</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>7/16</fractions>
@@ -4287,8 +4129,7 @@
               <text>眄，</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <measures>1</measures>
@@ -4342,8 +4183,7 @@
             <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                </Tie>
+                <Tie/>
                 <next>
                   <location>
                     <measures>1</measures>
@@ -4391,8 +4231,7 @@
             </Lyrics>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                </Tie>
+                <Tie/>
                 <next>
                   <location>
                     <fractions>1/16</fractions>
@@ -4424,8 +4263,7 @@
               <text>生</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/8</fractions>
@@ -4460,8 +4298,7 @@
               <text>生</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/8</fractions>
@@ -4514,8 +4351,7 @@
               <text>燕</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <grace>0</grace>
@@ -4523,8 +4359,7 @@
               </next>
             </Spanner>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>7/16</fractions>
@@ -4571,8 +4406,7 @@
               <text>语</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -4618,8 +4452,7 @@
               <text>明</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <measures>1</measures>
@@ -4636,8 +4469,7 @@
             <durationType>eighth</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                </Tie>
+                <Tie/>
                 <next>
                   <location>
                     <measures>1</measures>
@@ -4727,8 +4559,7 @@
               <text>如</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/8</fractions>
@@ -4793,8 +4624,7 @@
               <text>剪，</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/8</fractions>
@@ -4845,8 +4675,7 @@
               <text>呖</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/16</fractions>
@@ -4887,8 +4716,7 @@
               <text>莺</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/4</fractions>
@@ -4934,8 +4762,7 @@
               <text>声</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>3/8</fractions>
@@ -4988,8 +4815,7 @@
               <text>溜</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <grace>0</grace>
@@ -4997,8 +4823,7 @@
               </next>
             </Spanner>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/8</fractions>
@@ -5031,8 +4856,7 @@
               <text>的</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>5/8</fractions>
@@ -5092,8 +4916,7 @@
               <text>圆。</text>
             </Lyrics>
             <Spanner type="Slur">
-              <Slur>
-              </Slur>
+              <Slur/>
               <next>
                 <location>
                   <fractions>1/8</fractions>
