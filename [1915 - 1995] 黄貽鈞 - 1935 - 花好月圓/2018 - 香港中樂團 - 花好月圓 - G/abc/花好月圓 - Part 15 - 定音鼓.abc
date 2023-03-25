@@ -1,0 +1,23 @@
+X:1
+T:花好月圓
+G:定音鼓
+C:黃貽鈞
+O:China
+F:https://www.hkco.org/uploads/docs/5a8b93db7f77b1.pdf
+M:4/4
+L:1/8
+K:G
+V:1 bass
+%%MIDI program 47
+%
+[Q:"Allegro con Brio (M.M." 1/4 = 156 ")"] !f!!>!G,,4 G,,2 G,,2 | !>!G,,4 G,,2 G,,2 | G,,2 z2 z2 D,2 | !
+% 4
+|: G,,2 z2 z4 | Z7 | !sfz!D,2 z2 z4 | Z7 | !
+% 20
+!f! !>!G,,2 !>!D,2 !>!G,,2 z2 | Z9 | [Q:"Moderato"] Z7 | !
+% 37
+|1 Z | !>!G,,2 G,,G,, !>!G,,2 G,,G,, |[M:2/4] !>!G,, z z2 :| !
+% 40
+|2 [M:4/4] Z9 | !mf!G,,G,,G,,G,, G,,G,,D,D, | G,,G,,G,,G,, G,,G,,C,C, | !
+% 51
+C,C,C,C, D,D,D,D, | !f! G,,2 D,2 C,2 D,2 | !///!!fermata!G,,4 !>!G,,!>!G,, z2 |]

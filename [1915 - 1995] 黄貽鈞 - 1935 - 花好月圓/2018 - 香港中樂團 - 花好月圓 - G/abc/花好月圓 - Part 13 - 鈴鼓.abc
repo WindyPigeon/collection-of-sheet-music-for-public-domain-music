@@ -1,0 +1,30 @@
+X:1
+T:花好月圓
+G:鈴鼓
+C:黃貽鈞
+O:China
+F:https://www.hkco.org/uploads/docs/5a8b9391931491.pdf
+M:4/4
+L:1/8
+K:none
+V:1 perc stafflines=1
+%%MIDI drummap B 54
+%%MIDI channel 10
+%
+[Q:"Allegro con Brio (M.M." 1/4 = 156 ")"] !f!!///!B4 B2 B2 | !///!B4 B2 B2 | !///!B8 | !
+% 4
+|: B2 z2 z4 | Z15 | !mf!!>!B2 !>!B2 !>!B2!f! !///!B2 | !mf!BBzB z BzB | !
+% 22
+z BzB z BzB | z BzB z BzB | z BzB z BzB | BBzB z BzB | !
+% 26
+z BzB z BzB | z BzB z BzB | !f!B2 B2 B2 z2 | z8 | !
+% 30
+[Q:"Moderato"] z !mp!BzB z !mf!B/B/ BB | z !mp!BzB z !mf!B/B/ BB | z BzB z B/B/ BB | z BzB z B/B/ BB | !
+% 34
+z BzB z B/B/ BB | z BzB z B/B/ BB | z BzB z B/B/ BB | !
+% 37
+|1 z BzB z B/B/ BB | !///!B2 BB !///!B2 BB | [M:2/4] BB/B/ BB/B/ :| !
+% 40
+|2 [M:4/4] z BzB B z !>!B2 | Z8 | !f!!///!B4 !///!B4 | !///!B4 !///!B4 | !
+% 51
+!///!B4 !///!B4 | B2 B2 B2 B2 | !///!!fermata!B4 !>!B!>!B z2 |]

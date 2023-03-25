@@ -1,0 +1,29 @@
+X:1
+T:花好月圓
+G:低音管
+C:黃貽鈞
+O:China
+F:https://www.hkco.org/uploads/docs/5a8b93248c3021.pdf
+M:4/4
+L:1/8
+K:G
+V:1 bass
+%%MIDI program 70
+%
+[Q:"Allegro con Brio (M.M." 1/4 = 156 ")"] !ff!!>![D,G,]4 [D,G,]2 [D,G,]2 | !>![D,G,]4 [D,G,]2 [D,G,]2 | [D,G,]2 z2 z2 D,2 | !
+% 4
+|: G,2 z2 z4 | Z8 | !mp!G,6 (B,,D, | !<(!G,6) (!<)!!mf!D,2  | B,3 D E,G,A,B, | D,4 C,4) | !
+% 17
+(A,,3 B,, !<(!^C,2 D,E, !<)! | (F,4) F,)!f!(G,A,B, | (D4) D)(B,A,E,) | !f!!>!G,2 !>!D,2 !>!G,2 z2 | !
+% 21
+!mp!G,6 G,2 | A,6 A,2 | (!mf!A,4 G,4 | !>(!E,4 D,4!>)!) | !
+% 25
+Z5 | [Q:"Moderato"] !f!C,C,C,D, (E,G,) D,2 | !f!G,B,A,G, (E,G,) D,2 | C,A,,C,D, (E,G,) E,2 | !
+% 33
+D,E,C,B,, (A,,C,) A,,2 | G,,G,,G,,A,, (C,D,) E,2 | D,G,E,D, (C,E,) A,,2 | G,G,G,A, (CD) E2 | !
+% 37
+|1 DE (C/D/)A, G,4 | !ff!!>![D,G,]2 [D,G,][D,G,] !>![D,G,]2 [D,G,][D,G,] |[M:2/4] !>![D,G,] z z2 :| !
+% 40
+|2 [M:4/4] DE (C/D/)A, G, z !f!!>![D,G,]2 | Z8 | !f!G,3 D, G,3 D, | G,3 D, G,3 C, | !
+% 51
+G,3 E, A,3 D, | !ff!G,2 D,2 C,2 D,2 | !fermata!G,4 !>!G,!>!G, z2 |]

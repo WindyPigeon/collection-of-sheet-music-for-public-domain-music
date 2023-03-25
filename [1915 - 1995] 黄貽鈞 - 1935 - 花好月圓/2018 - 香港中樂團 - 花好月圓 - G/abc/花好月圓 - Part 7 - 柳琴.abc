@@ -1,0 +1,34 @@
+X:1
+T:花好月圓
+G:柳琴
+C:黃貽鈞
+O:China
+F:https://www.hkco.org/uploads/docs/5a8b9351980541.pdf
+M:4/4
+L:1/8
+K:G
+V:1 treble
+%%MIDI program 24
+%
+[Q:"Allegro con Brio (M.M." 1/4 = 156 ")"] !ff!!///!!>!d'3 e' d'e'd'e' | !///!!>!d'3 e' d'e'd'e' | !/!d'!/!e'!/!g'!/!e' !/!d'!/!b!/!a!/!b | !
+% 4
+|: g z z2 z4 | Z16 | !mf!GG/A/ Bd GB A2 | !<(!AA/B/ de gb a2!<)! | !
+% 23
+!f!ab a/b/a/g/ eg d2 | !>(!ce/g/ dc BA B2!>)! | Z4 | !mp![dg]2 [ea]2 [d=f]2 z2 | !
+% 30
+[Q:"Moderato"] z !mp!GzG z !mf!d/d/ dd | z !mp!GzG z !mf!d/d/ dd | z AzA z e/e/ ee | z GzG z c/c/ cc | !
+% 34
+z GzG z e/e/ ee | z GzG z c/c/ cc | z GzG z e/e/ ee | !
+% 37
+|1 z BzA G!f!g/g/ gg | !ff!!>!g>a g/a/g/a/ !>!g>a g/a/g/a/ | [M:2/4] !>!g/e/d/e/ d/B/A/B/ :| !
+% 40
+|2 [M:4/4] z BzA G z !f!!>!g2 | !p!d/d/d/d/ B/d/B/A/ G/A/B/d/ A/A/A/A/ | d/d/d/e/ !/!g!/!b a/b/a/g/ !//!e2 | !
+% 43
+e/g/a/b/ g/a/g/e/ d/e/B/A/ d2 | !/!B!/!d e/g/a/b/ !//!d2 d/e/c/A/ | !mf!!//!d2 B/d/B/A/ G/A/B/d/ !//!A2 | !
+[I:newpage]
+% 46
+d/d/d/e/ !/!g!/!b a/b/a/g/ !//!e2 | e/g/a/b/ g/a/g/e/ d/e/B/A/ !//!d2 | !
+% 48
+!/!B!/!d e/g/a/b/ dd'd'd' | !f!!//!d'2 b/d'/b/a/ g/a/b/d'/ !//!a2 | d/d/d/e/ !/!g!/!b a/b/a/g/ !//!e2 | !
+% 51
+e/g/a/b/ g/a/g/e/ d/e/B/A/ !//!d2 | !ff!B2 d2 egab | !///!!fermata!g4 !>!g!>!g z2 |]

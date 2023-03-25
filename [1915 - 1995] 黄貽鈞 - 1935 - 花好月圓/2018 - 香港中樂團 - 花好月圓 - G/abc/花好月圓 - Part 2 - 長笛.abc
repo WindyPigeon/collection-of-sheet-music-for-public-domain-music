@@ -1,0 +1,27 @@
+X:1
+T:花好月圓
+G:長笛
+C:黃貽鈞
+O:China
+F:https://www.hkco.org/uploads/docs/5a8b9300592c11.pdf
+M:4/4
+L:1/8
+K:G
+V:1 treble
+%%MIDI program 73
+%
+[Q:"Allegro con Brio (M.M." 1/4 = 156 ")"] !ff!!>!d3 e dede | !>!d3 e dede | !/!d!/!e!/!g!/!e !/!d!/!B!/!A!/!B | !
+% 4
+|: G z z2 z4 | Z6 | !<(!G8!<)! | !sfz!A6 (D/E/G/B/) | (d2 d2 BdBA | GABd A4) | !
+% 15
+(D2 DE G2 B2 | ABAG E4) | (EGAB GAGE | D2 B,A, D4) | (B,2 D2 EGAB) | !
+% 20
+!f!!>!G2 !>!d2 !>!g2 z2 | Z9 | [Q:"Moderato"] z4 z !mf!B/B/ BB | z4 z !mf!d/d/ dd | !
+% 33
+z4 z A/A/ AA | z4 z A/A/ AA | z4 z c/c/ cc | z4 z A/A/ AA | z4 z c/c/ cc | !
+% 37
+|1 z GzF G!f!d/d/ dd | !ff!!>!B>c B/c/B/c/ !>!B>c B/c/B/c/ | [M:2/4] !>!B/c/d/c/ B/G/F/D/ :| !
+% 40
+|2 [M:4/4] z GzF G z!f! !>!d2 | Z8 | !f!(d/B/G/E/ D/) z/ z (D/E/G/B/ d/) z/ z | (d/B/G/E/ D/) z/ z (D/E/G/B/ d/) z/ z | !
+% 51
+(E/A/c/e/ g/e/c/G/) (a,,/D/F/A/ D'/A/F/D/) | !ff!G2 B2 c2 d2 | !trill!!fermata!d4 !>!d!>!d z2 |]
