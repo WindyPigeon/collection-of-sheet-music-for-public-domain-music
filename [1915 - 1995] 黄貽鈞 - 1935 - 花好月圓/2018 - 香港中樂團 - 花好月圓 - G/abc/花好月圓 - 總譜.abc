@@ -157,7 +157,7 @@ V:22 bass nm="低音革胡" snm="低音革胡"
 [V:22] G,,2 D,2 A,,2 E,2 | "^arco" !f!!>!G,2 !>!D,2 !>!G,2 z2 | "^pizz." !mp!G,,2 z2 z2 G,2 | A,,2 z2 z2 A,2 | !mf!F,2 z2 z2 G,2 | !>(!C,2 z2 z2 D,2!>)! | !
 [I:newpage]
 % 25
-[V:1] z8 | z8 | z8 | z8 | z8 | [Q: "Moderato"] z4 z !mf!d/d/ dd | !
+[V:1] z8 | z8 | z8 | z8 | z8 | [Q:"Moderato"] z4 z !mf!d/d/ dd | !
 [V:2] z8 | z8 | z8 | z8 | z8 | z4 z !mf!B/B/ BB | !
 [V:3] z !mp![GB]z[GB] z [EA]z[EA] | z [_EA]z[EA] z [DG]z[DG] | z [GB]z[GB] z [EG]z[EG] | z !f!!tenuto![EGc]2 !tenuto![DFA]2 !tenuto![DGB]2 z | z8 | z !mp![EG]z[EG] z !mf![GBd]/[GBd]/ [GBd][GBd] | !
 [V:4] (D4 ^C4 | =C4 B,4) | G,4 B,4 | z !f!!tenuto![G,CE]2 !tenuto![A,DF]2 !tenuto![B,DG]2 z | z8 | !f![C,C][C,C][C,C][D,D] ([E,E][G,G]) [D,D]2 | !
