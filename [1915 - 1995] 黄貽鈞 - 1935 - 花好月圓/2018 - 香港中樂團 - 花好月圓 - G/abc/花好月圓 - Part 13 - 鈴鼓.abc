@@ -6,8 +6,7 @@ O:China
 F:https://www.hkco.org/uploads/docs/5a8b9391931491.pdf
 M:4/4
 L:1/8
-K:none
-V:1 perc stafflines=1
+K:none perc stafflines=1
 %%MIDI drummap B 54
 %%MIDI channel 10
 %
