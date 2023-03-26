@@ -61,6 +61,7 @@
 			</score-instrument>
 		</score-part>
 	</part-list>
+<!--=========================================================-->
 	<part id='P1'>
 		<measure number='1'>
 			<print>
@@ -92,7 +93,6 @@
 					<words>Allegro 跳跃地</words>
 				</direction-type>
 				<staff>1</staff>
-				<sound tempo='144'/>
 			</direction>
 			<note>
 				<pitch>
@@ -107,9 +107,9 @@
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<technical>
-						<fingering>3</fingering>
+						<fingering placement='above'>3</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -262,6 +262,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='2'>
 			<note>
 				<pitch>
@@ -276,7 +277,7 @@
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -408,6 +409,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='3'>
 			<note>
 				<pitch>
@@ -421,9 +423,9 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<technical>
-						<fingering>1</fingering>
+						<fingering placement='above'>1</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -454,7 +456,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -537,6 +539,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='4'>
 			<note>
 				<pitch>
@@ -551,7 +554,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -645,6 +648,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='5'>
 			<print new-system='yes'/>
 			<note>
@@ -659,7 +663,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -702,7 +706,7 @@
 				<beam number='2'>begin</beam>
 				<notations>
 					<technical>
-						<fingering>3</fingering>
+						<fingering placement='above'>3</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -810,6 +814,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='6'>
 			<note>
 				<pitch>
@@ -824,9 +829,9 @@
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<technical>
-						<fingering>4</fingering>
+						<fingering placement='above'>4</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -989,6 +994,7 @@
 				</notations>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='7'>
 			<note>
 				<pitch>
@@ -1003,9 +1009,9 @@
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 					<technical>
-						<fingering>3</fingering>
+						<fingering placement='above'>3</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -1049,7 +1055,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 					<articulations>
 						<staccato placement='above'/>
 					</articulations>
@@ -1149,6 +1155,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='8'>
 			<note>
 				<pitch>
@@ -1163,7 +1170,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -1257,6 +1264,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='9'>
 			<print new-system='yes'/>
 			<direction placement='below'>
@@ -1280,9 +1288,9 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 					<technical>
-						<fingering>3</fingering>
+						<fingering placement='above'>3</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -1423,6 +1431,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='10'>
 			<note>
 				<pitch>
@@ -1437,7 +1446,7 @@
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -1480,7 +1489,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 					<articulations>
 						<staccato placement='above'/>
 					</articulations>
@@ -1580,6 +1589,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='11'>
 			<note>
 				<pitch>
@@ -1594,9 +1604,9 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 					<technical>
-						<fingering>2</fingering>
+						<fingering placement='above'>2</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -1691,6 +1701,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='12'>
 			<attributes>
 				<clef number='2'>
@@ -1720,9 +1731,9 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<technical>
-						<fingering>2</fingering>
+						<fingering placement='above'>2</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -1817,6 +1828,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='13'>
 			<print new-system='yes'/>
 			<note>
@@ -1832,9 +1844,9 @@
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<technical>
-						<fingering>1</fingering>
+						<fingering placement='above'>1</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -1879,7 +1891,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<articulations>
 						<staccato placement='above'/>
 					</articulations>
@@ -1981,6 +1993,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='14'>
 			<note>
 				<pitch>
@@ -1995,7 +2008,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -2091,6 +2104,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='15'>
 			<direction placement='below'>
 				<direction-type>
@@ -2114,9 +2128,9 @@
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<technical>
-						<fingering>1</fingering>
+						<fingering placement='above'>1</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -2170,7 +2184,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<articulations>
 						<staccato placement='above'/>
 					</articulations>
@@ -2259,6 +2273,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='16'>
 			<attributes>
 				<key>
@@ -2278,7 +2293,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -2374,6 +2389,7 @@
 				<bar-style>light-light</bar-style>
 			</barline>
 		</measure>
+<!--=========================================================-->
 		<measure number='17'>
 			<print new-page='yes'/>
 			<attributes>
@@ -2386,7 +2402,6 @@
 					<words>Meno mosso 抒情地</words>
 				</direction-type>
 				<staff>1</staff>
-				<sound tempo='120'/>
 			</direction>
 			<note>
 				<pitch>
@@ -2400,7 +2415,7 @@
 				<staff>1</staff>
 				<notations>
 					<technical>
-						<fingering>1</fingering>
+						<fingering placement='above'>1</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -2465,6 +2480,7 @@
 				</notations>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='18'>
 			<note>
 				<pitch>
@@ -2478,9 +2494,9 @@
 				<stem>down</stem>
 				<staff>1</staff>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<technical>
-						<fingering>2</fingering>
+						<fingering placement='above'>2</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -2548,6 +2564,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='19'>
 			<note>
 				<pitch>
@@ -2635,6 +2652,7 @@
 				</notations>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='20'>
 			<note>
 				<pitch>
@@ -2648,9 +2666,9 @@
 				<stem>down</stem>
 				<staff>1</staff>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<technical>
-						<fingering>5</fingering>
+						<fingering placement='above'>5</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -2667,7 +2685,7 @@
 				<staff>1</staff>
 				<notations>
 					<technical>
-						<fingering>2</fingering>
+						<fingering placement='above'>2</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -2728,6 +2746,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='21'>
 			<attributes>
 				<clef number='2'>
@@ -2747,7 +2766,7 @@
 				<staff>1</staff>
 				<notations>
 					<technical>
-						<fingering>1</fingering>
+						<fingering placement='above'>1</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -2764,7 +2783,7 @@
 				<notations>
 					<slur type='stop' number='1'/>
 					<technical>
-						<fingering>3</fingering>
+						<fingering placement='above'>3</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -2789,7 +2808,7 @@
 				<stem>up</stem>
 				<staff>2</staff>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<technical>
 						<fingering placement='below'>4</fingering>
 					</technical>
@@ -2820,6 +2839,7 @@
 				<beam number='1'>end</beam>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='22'>
 			<note>
 				<pitch>
@@ -2833,7 +2853,7 @@
 				<stem>up</stem>
 				<staff>1</staff>
 				<notations>
-					<slur type='start' placement='below' number='2'/>
+					<slur type='start' orientation='under' placement='below' number='2'/>
 				</notations>
 			</note>
 			<note>
@@ -2903,6 +2923,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='23'>
 			<print new-system='yes'/>
 			<note>
@@ -2991,6 +3012,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='24'>
 			<note>
 				<pitch>
@@ -3005,7 +3027,7 @@
 				<notations>
 					<slur type='stop' number='2'/>
 					<technical>
-						<fingering>1</fingering>
+						<fingering placement='above'>1</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -3068,6 +3090,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='25'>
 			<attributes>
 				<clef number='2'>
@@ -3087,7 +3110,7 @@
 				<staff>1</staff>
 				<notations>
 					<technical>
-						<fingering>5</fingering>
+						<fingering placement='above'>5</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -3150,6 +3173,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='26'>
 			<direction placement='below'>
 				<direction-type>
@@ -3172,7 +3196,7 @@
 				<staff>1</staff>
 				<notations>
 					<technical>
-						<fingering>1</fingering>
+						<fingering placement='above'>1</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -3198,7 +3222,7 @@
 				<staff>2</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<technical>
 						<fingering placement='below'>4</fingering>
 					</technical>
@@ -3239,6 +3263,7 @@
 				</notations>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='27'>
 			<note>
 				<pitch>
@@ -3252,9 +3277,9 @@
 				<stem>down</stem>
 				<staff>1</staff>
 				<notations>
-					<slur type='start' placement='above' number='2'/>
+					 <slur type='start' orientation='over' placement='above' number='2'/>
 					<technical>
-						<fingering>2</fingering>
+						<fingering placement='above'>2</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -3326,6 +3351,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='28'>
 			<note>
 				<pitch>
@@ -3374,7 +3400,7 @@
 				<staff>2</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<technical>
 						<fingering placement='below'>5</fingering>
 					</technical>
@@ -3410,6 +3436,7 @@
 				</notations>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='29'>
 			<print new-system='yes'/>
 			<note>
@@ -3425,7 +3452,7 @@
 				<stem>down</stem>
 				<staff>1</staff>
 				<notations>
-					<slur type='start' placement='above' number='2'/>
+					 <slur type='start' orientation='over' placement='above' number='2'/>
 				</notations>
 			</note>
 			<note>
@@ -3491,6 +3518,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='30'>
 			<note>
 				<pitch>
@@ -3539,7 +3567,7 @@
 				<staff>2</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 					<technical>
 						<fingering placement='below'>4</fingering>
 					</technical>
@@ -3570,6 +3598,7 @@
 				<beam number='1'>end</beam>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='31'>
 			<note>
 				<pitch>
@@ -3583,7 +3612,7 @@
 				<stem>down</stem>
 				<staff>1</staff>
 				<notations>
-					<slur type='start' placement='above' number='2'/>
+					 <slur type='start' orientation='over' placement='above' number='2'/>
 				</notations>
 			</note>
 			<note>
@@ -3649,6 +3678,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='32'>
 			<note>
 				<pitch>
@@ -3671,6 +3701,9 @@
 				<type>quarter</type>
 				<stem>down</stem>
 				<staff>1</staff>
+				<notations>
+					<slur type='stop' number='2'/>
+				</notations>
 			</note>
 			<backup>
 				<duration>8</duration>
@@ -3736,6 +3769,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='33'>
 			<note>
 				<pitch>
@@ -3748,7 +3782,6 @@
 				<stem>down</stem>
 				<staff>1</staff>
 				<notations>
-					<slur type='stop' number='2'/>
 					<fermata type='upright'/>
 				</notations>
 			</note>
@@ -3786,6 +3819,7 @@
 				<bar-style>light-light</bar-style>
 			</barline>
 		</measure>
+<!--=========================================================-->
 		<measure number='34'>
 			<attributes>
 				<key>
@@ -3801,7 +3835,6 @@
 					<words>Tempo I</words>
 				</direction-type>
 				<staff>1</staff>
-				<sound tempo='120'/>
 			</direction>
 			<note>
 				<pitch>
@@ -3816,7 +3849,7 @@
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -3948,6 +3981,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='35'>
 			<print new-system='yes'/>
 			<note>
@@ -3963,7 +3997,7 @@
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -4095,6 +4129,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='36'>
 			<note>
 				<pitch>
@@ -4108,7 +4143,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -4138,7 +4173,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -4221,6 +4256,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='37'>
 			<note>
 				<pitch>
@@ -4235,7 +4271,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -4329,6 +4365,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='38'>
 			<note>
 				<pitch>
@@ -4342,7 +4379,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -4488,6 +4525,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='39'>
 			<note>
 				<pitch>
@@ -4502,7 +4540,7 @@
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -4634,6 +4672,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='40'>
 			<print new-system='yes'/>
 			<direction placement='below'>
@@ -4658,9 +4697,9 @@
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 					<technical>
-						<fingering>3</fingering>
+						<fingering placement='above'>3</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -4704,7 +4743,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 					<articulations>
 						<staccato placement='below'/>
 					</articulations>
@@ -4804,6 +4843,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='41'>
 			<note>
 				<pitch>
@@ -4818,7 +4858,7 @@
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -4912,6 +4952,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='42'>
 			<note>
 				<pitch>
@@ -4926,7 +4967,7 @@
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
 				<notations>
-					<slur type='start' placement='below' number='1'/>
+					<slur type='start' orientation='under' placement='below' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -5065,6 +5106,7 @@
 				<staff>2</staff>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='43'>
 			<direction placement='above'>
 				<direction-type>
@@ -5089,7 +5131,7 @@
 						<tenuto placement='above'/>
 					</articulations>
 					<technical>
-						<fingering>3</fingering>
+						<fingering placement='above'>3</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -5256,6 +5298,7 @@
 				</notations>
 			</note>
 		</measure>
+<!--=========================================================-->
 		<measure number='44'>
 			<note>
 				<pitch>
@@ -5268,9 +5311,9 @@
 				<stem>down</stem>
 				<staff>1</staff>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 					<technical>
-						<fingering>1</fingering>
+						<fingering placement='above'>1</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -5287,7 +5330,7 @@
 				<staff>1</staff>
 				<notations>
 					<technical>
-						<fingering>2</fingering>
+						<fingering placement='above'>2</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -5304,7 +5347,7 @@
 				<staff>1</staff>
 				<notations>
 					<technical>
-						<fingering>5</fingering>
+						<fingering placement='above'>5</fingering>
 					</technical>
 				</notations>
 			</note>
@@ -5376,7 +5419,7 @@
 				<stem>down</stem>
 				<staff>2</staff>
 				<notations>
-					<slur type='start' placement='above' number='1'/>
+					 <slur type='start' orientation='over' placement='above' number='1'/>
 				</notations>
 			</note>
 			<note>
@@ -5405,4 +5448,5 @@
 			</barline>
 		</measure>
 	</part>
+<!--=========================================================-->
 </score-partwise>
