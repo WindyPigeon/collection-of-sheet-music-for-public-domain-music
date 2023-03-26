@@ -6,8 +6,7 @@ O:China
 F:https://www.hkco.org/uploads/docs/5a8b93872c0ae1.pdf
 M:4/4
 L:1/8
-K:none
-V:1 perc 
+K:none perc 
 %%MIDI drummap e 77
 %%MIDI drummap F 76
 %%MIDI channel 10

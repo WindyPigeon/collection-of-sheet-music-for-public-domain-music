@@ -6,8 +6,7 @@ F:https://www.hkco.org/uploads/docs/5a8b93f5536641.pdf
 G:二胡
 M:4/4
 L:1/8
-K:G
-V:1 treble
+K:G treble
 %%MIDI program 40
 %
 [Q:"Allegro con Brio (M.M." 1/4 = 156 ")"] !ff!!>!B3 c BcBc | !>!B3 c BcBc | !/!B!/!c!/!e!/!c !/!B!/!G!/!F!/!D | !
