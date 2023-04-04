@@ -5,6 +5,7 @@
   copyright =  "Lagu dan lirik merupakan hak cipta terpelihara dengan kebenaran daripada EMI Music Publishing Malaysia Sdn. Bhd."
   composer =  "Lagu: P. Ramlee"
   poet =  "Lirik: P. Ramlee"
+  tagline =  ##f
 }
 
 global =  {
