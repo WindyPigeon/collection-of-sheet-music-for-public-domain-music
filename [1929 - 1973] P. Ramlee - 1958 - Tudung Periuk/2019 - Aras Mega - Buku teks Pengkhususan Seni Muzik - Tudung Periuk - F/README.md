@@ -1,0 +1,11 @@
+- Work:
+  - Title: Buku teks Pengkhususan Seni Muzik
+  - ISBN: 978-967-2212-69-0
+  - Publication date: 2019
+  - Publisher: Aras Mega (M) Sdn. Bhd.
+- Sheet music:
+  - Type:
+    - Lead sheet
+  - Arrangement:
+    - Key: F
+    - Tempo: 50 BPM
