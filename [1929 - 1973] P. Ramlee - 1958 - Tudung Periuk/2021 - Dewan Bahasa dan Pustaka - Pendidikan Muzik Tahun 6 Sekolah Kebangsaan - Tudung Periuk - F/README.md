@@ -1,5 +1,5 @@
 - Book
-  - Title: Pendidikan Muzik Tahun 6 Sekolah Kebangsaan
+  - Title: Buku teks Pendidikan Muzik Tahun 6 Sekolah Kebangsaan
   - Publisher:
     - Name: Dewan Bahasa dan Pustaka
     - Website: http://www.dbp.gov.my
