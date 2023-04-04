@@ -7,5 +7,5 @@
   - Type:
     - Lead sheet
   - Arrangement:
-    - Key: Bb
+    - Key: F
     - Tempo: 50 BPM
