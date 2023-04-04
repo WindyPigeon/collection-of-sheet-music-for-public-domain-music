@@ -47,3 +47,6 @@
     - Chord symbols:
       - Font:
         - Font family: serif
+    - Page number:
+      - Font:
+        - Font family: Azim Qu, sans-serif
