@@ -28,22 +28,22 @@
     - Title:
       - Text: Tudung Periuk
       - Font:
-        - Font family: sans-serif
+        - Font family: kssr Med, sans-serif
     - Credit:
       - Composer:
         - Text:
           - Lagu: P. Ramlee
         - Font:
-          - Font family: sans-serif
+          - Font family: kssr Light, sans-serif
       - Lyricist:
         - Text:
           - Lirik : P. Ramlee
         - Font:
-          - Font family: sans-serif
+          - Font family: kssr Light, sans-serif
     - Rights:
       - Text: Lagu dan lirik merupakan hak cipta terpelihara dengan kebenaran daripada EMI Music Publishing Malaysia Sdn. Bhd.
       - Font:
-        - Font family: sans-serif
+        - Font family: kssr Light, sans-serif
     - Chord symbols:
       - Font:
         - Font family: serif
