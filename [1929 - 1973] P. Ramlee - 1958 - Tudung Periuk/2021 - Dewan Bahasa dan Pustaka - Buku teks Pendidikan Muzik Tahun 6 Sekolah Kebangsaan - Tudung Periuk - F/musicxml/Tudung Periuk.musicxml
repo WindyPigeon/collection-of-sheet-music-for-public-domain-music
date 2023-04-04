@@ -27,19 +27,23 @@
 	</defaults>
 	<credit page='1'>
 		<credit-type>title</credit-type>
-		<credit-words justify='center' valign='top' font-weight='bold' font-family='sans-serif'>Tudung Periuk</credit-words>
+		<credit-words justify='center' valign='top' font-weight='bold' font-family='kssr Med,sans-serif'>Tudung Periuk</credit-words>
 	</credit>
 	<credit page='1'>
 		<credit-type>composer</credit-type>
-		<credit-words justify='right' valign='bottom' font-family='sans-serif'>Lagu: P. Ramlee</credit-words>
+		<credit-words justify='right' valign='bottom' font-family='kssr Light,sans-serif'>Lagu: P. Ramlee</credit-words>
 	</credit>
 	<credit page='1'>
 		<credit-type>lyricist</credit-type>
-		<credit-words justify='right' valign='bottom' font-family='sans-serif'>Lirik: P. Ramlee</credit-words>
+		<credit-words justify='right' valign='bottom' font-family='kssr Light,sans-serif'>Lirik: P. Ramlee</credit-words>
 	</credit>
 	<credit page='1'>
 		<credit-type>rights</credit-type>
-		<credit-words justify='center' valign='bottom' font-family='sans-serif'>Lagu dan lirik merupakan hak cipta terpelihara dengan kebenaran daripada EMI Music Publishing Malaysia Sdn. Bhd.</credit-words>
+		<credit-words justify='center' valign='bottom' font-family='kssr Light,sans-serif'>Lagu dan lirik merupakan hak cipta terpelihara dengan kebenaran daripada EMI Music Publishing Malaysia Sdn. Bhd.</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-type>page number</credit-type>
+		<credit-words justify='right' valign='bottom' font-family='Azim Qu,sans-serif'>19</credit-words>
 	</credit>
 	<part-list>
 		<score-part id='P1'>
