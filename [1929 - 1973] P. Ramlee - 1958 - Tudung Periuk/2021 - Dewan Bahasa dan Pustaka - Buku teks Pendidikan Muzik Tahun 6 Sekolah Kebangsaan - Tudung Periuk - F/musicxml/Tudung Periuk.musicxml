@@ -52,7 +52,7 @@
 	</part-list>
 <!--=========================================================-->
 	<part id='P1'>
-		<measure number='0'>
+		<measure number='0' implicit='yes'>
 			<attributes>
 				<divisions>2</divisions>
 				<key>
