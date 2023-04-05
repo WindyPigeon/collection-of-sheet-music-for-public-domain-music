@@ -1,0 +1,19 @@
+X:1
+T:百鳥和鳴
+T:和聲公司出品
+T:趙威林监摄
+C:摆譜 林浩然
+L:1/8
+M:2/4
+K:C
+%%MIDI program 40
+GG z2 | GG z2 | dB G/G/G | GG z G/G/ | dB G/G/G | FD z G/G/ | dB G/G/G | GG G/G/A |
+w: 六 六|六 六|尺 乙 六 六 六|六 六 六 六|尺 乙 六 六 六|反 尺 六 六|尺 乙 六 六 六|六 六 六 六 五|
+GF ED | CG cG/G/ | c/c/c cE | FE z G/G/ | B/B/B BG/G/ | FD z G/G/ | c/c/c cE |
+w: 六 反 工 尺|上 六 生 六 六|生 生 生 生 工|反 工 六 六|乙 乙 乙 乙 六 六|反 尺 六 六|生 生 生 生 工|
+FE z G/F/ | ED GF | BA G2 | g2 ec | f2 d2 | e2 c>e | dB G2 | g2 ec | f2 d2 | ec dB |
+w: 反 工 六 反|工 尺 六 反|乙 五 六|六 工 上|反 尺|工 上 工|尺 乙 合|六 工 上|反 尺|工 上 尺 乙|
+c/c/c cG/G/ | cc BA | cc z G/G/ | cc BA |[M:4/4] B2 z A dd/d/ cB |[M:2/4] dd z c/c/ | dc BA |
+w: 生 生 生 生 六 六|生 生 乙 五|生 生 六 六|生 生 乙 五|乙 五 尺 尺 尺 上 乙|尺 尺 生 生|尺 生 乙 士|
+Gg G2 | ED GF | BA GF | ED GF | BA GF | ED EF | GA BG | c/c/c c z |] 
+w: 合 六 合|工 尺 六 反|乙 五 六 反|工 尺 六 反|乙 五 六 反|工 尺 工 反|六 五 乙 六|生 生 生 生|
