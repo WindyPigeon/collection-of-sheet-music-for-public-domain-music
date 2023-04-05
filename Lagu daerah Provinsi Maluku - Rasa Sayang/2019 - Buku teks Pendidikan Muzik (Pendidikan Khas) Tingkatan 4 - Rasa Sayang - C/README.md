@@ -1,0 +1,20 @@
+- Book:
+  - Title: Buku teks Pendidikan Muzik (Pendidikan Khas) Tingkatan 4
+  - ISBN: 978-967-2212-53-9
+- Pages: p. 11
+- Layout:
+  - Title:
+    - Text: RASA SAYANG
+    - Font:
+      - Font family: BD Cartoon Shout
+      - Font size: 16
+  - Composer:
+    - Text: Lagu Tradisional
+    - Font:
+      - Font family: Azim
+      - Font size: 10
+  - Tempo:
+    - Font:
+      - Font family:
+      - music: MusiSync
+      - text: Azim

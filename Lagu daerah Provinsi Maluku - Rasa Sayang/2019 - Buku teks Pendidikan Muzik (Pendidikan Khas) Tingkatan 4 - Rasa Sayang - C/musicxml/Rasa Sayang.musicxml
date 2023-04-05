@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE score-partwise PUBLIC '-//Recordare//DTD MusicXML 3.1 Partwise//EN' 'http://www.musicxml.org/dtds/partwise.dtd'>
+<score-partwise version='3.1'>
+	<work>
+		<work-title>Title</work-title>
+	</work>
+	<identification>
+		<rights>© Kementerian Pendidikan Malaysia</rights>
+		<encoding>
+			<supports element='accidental' type='yes'/>
+			<supports element='transpose' type='yes'/>
+			<supports attribute='new-page' element='print' type='yes' value='yes'/>
+			<supports attribute='new-system' element='print' type='yes' value='yes'/>
+		</encoding>
+		<source>Based on Buku teks Pendidikan Muzik (Pendidikan Khas) Tingkatan 4, p. 11, published by Aras Mega (M) Sdn. Bhd. in 2019.</source>
+		<relation>urn:ISBN:978-967-2212-53-9</relation>
+	</identification>
+	<defaults>
+		<word-font font-family='Azim' font-size='10'/>
+	</defaults>
+	<credit page='1'>
+		<credit-type>title</credit-type>
+		<credit-words font-family='BD Cartoon Shout' font-size='16' justify='center' valign='top'>RASA SAYANG</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-type>composer</credit-type>
+		<credit-words font-family='Azim' font-size='10' justify='right' valign='bottom'>Lagu Tradisional</credit-words>
+	</credit>
+	<credit page='1'>
+		<credit-type>page number</credit-type>
+		<credit-words font-family='Azim' font-size='11' justify='right' valign='bottom'>11</credit-words>
+	</credit>
+	<part-list>
+		<score-part id='P1'>
+			<part-name></part-name>
+		</score-part>
+	</part-list>
+<!--=========================================================-->
+	<part id='P1'>
+		<measure number='1'>
+			<print>
+				<system-layout>
+					<system-margins>
+						<left-margin>0.00</left-margin>
+						<right-margin>0.00</right-margin>
+					</system-margins>
+				</system-layout>
+			</print>
+			<attributes>
+				<divisions>1</divisions>
+				<key>
+					<fifths>0</fifths>
+				</key>
+				<time>
+					<beats>2</beats>
+					<beat-type>4</beat-type>
+				</time>
+				<clef>
+					<sign>G</sign>
+					<line>2</line>
+				</clef>
+			</attributes>
+			<direction placement='above'>
+				<direction-type>
+					<metronome parentheses='no'>
+						<beat-unit>quarter</beat-unit>
+						<per-minute>110</per-minute>
+					</metronome>
+				</direction-type>
+				<sound tempo='110' />
+			</direction>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>begin</syllabic>
+					<text>Ra</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>end</syllabic>
+					<text>sa</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='2'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>begin</syllabic>
+					<text>sa</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='3'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>end</syllabic>
+					<text>yang</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='4'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>hey!</text>
+					<end-line/>
+					<end-paragraph/>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='5'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+				<lyric number='1'>
+					<syllabic>begin</syllabic>
+					<text>Ra</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>end</syllabic>
+					<text>sa</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='6'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>begin</syllabic>
+					<text>sa</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>end</syllabic>
+					<text>yang</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='7'>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>begin</syllabic>
+					<text>sa</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>end</syllabic>
+					<text>yang</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='8'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>hey!</text>
+					<end-line/>
+					<end-paragraph/>
+				</lyric>
+			</note>
+			<note>
+				<rest />
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='9'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>Hey!</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='10'>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>begin</syllabic>
+					<text>li</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>end</syllabic>
+					<text>hat</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='11'>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>begin</syllabic>
+					<text>no</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>end</syllabic>
+					<text>na</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='12'>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>begin</syllabic>
+					<text>ja</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>end</syllabic>
+					<text>uh</text>
+					<end-line/>
+					<end-paragraph/>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='13'>
+			<print new-system='yes'/>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>begin</syllabic>
+					<text>Ra</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>end</syllabic>
+					<text>sa</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='14'>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>begin</syllabic>
+					<text>sa</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>end</syllabic>
+					<text>yang</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='15'>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>begin</syllabic>
+					<text>sa</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>end</syllabic>
+					<text>yang</text>
+				</lyric>
+			</note>
+		</measure>
+<!--=========================================================-->
+		<measure number='16'>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<lyric number='1'>
+					<syllabic>single</syllabic>
+					<text>hey!</text>
+					<end-line/>
+					<end-paragraph/>
+				</lyric>
+			</note>
+			<note>
+				<rest />
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+			<barline location='right'>
+				<bar-style>light-heavy</bar-style>
+				<repeat direction="backward"/>
+			</barline>
+		</measure>
+	</part>
+<!--=========================================================-->
+</score-partwise>
