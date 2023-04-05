@@ -1,0 +1,30 @@
+
+- 百鳥和鳴 / 花間蝶
+  - Title:
+    - Traditional Chinese: 百鳥和鳴
+    - Simplified Chinese: 百鸟和鸣
+  - Release date: 1936
+  - Record label:
+    - Name:
+      - 和聲唱片
+    - Alias:
+      - 和聲歌林唱片
+  - Catalog number: 49569
+  - Side: side-A
+  - Performers:
+    - Saxophone:
+      - 林浩然
+      - 宋子光
+    - Drum Set: 何大傻
+    - Voilin: 周瑞祺
+    - Trumpet: 譚沛鋆
+    - Piano: 梁金文
+- Arrangement:
+  - Key: C
+  - Tempo: about 90 BPM
+- Music sheet:
+  - Type:
+    - Lead sheet
+  - Musical notaion:
+    - Numbered musical notation
+    - Gongche notation
